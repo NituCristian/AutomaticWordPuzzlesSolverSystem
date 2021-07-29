@@ -1,0 +1,1149 @@
+On the island where each habitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Peggy and Mel . Peggy states that Mel is a knave . Mel says that 
+neither he nor Peggy are knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Peggy and Joe . Peggy tells you that of Joe and she , exactly one is a knight . 
+Joe tells you that only a knave would say that Peggy is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Sue and Alice . Sue claims that Alice is a knave . 
+Alice says that she and Sue are knights . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Sally and Alice . Sally claims that she and Alice are not the same . 
+Alice says that of she and Sally , exactly one is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Homer and Sue . Homer tells you that at least 
+one of the following is true : that he is a knight or that Sue is a knight . Sue claims that Homer could say that she is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Marge and Homer . Marge says that Homer and she are 
+both knights or both knaves . Homer claims that Marge and he are the same . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Joe and Alice . Joe tells you that he is a knight or Alice is a knave . 
+Alice says that of Joe and she , exactly one is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Sue and Ted . Ted claims that Sue could say that he is a knave . 
+Sue says that it is not the case that Ted is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Alice and Bart . Alice says that Bart is a knight or she is a knight . 
+Bart tells you that Alice would say that he is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Bob and Betty . Bob claims that Betty is a knave . 
+Betty says that she is a knight or Bob is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Bart and Betty . Bart claims that he and Betty are both knights 
+or both knaves . Betty says that Bart would tell you that she is a knave . Can you determine who is a knight and who is a knave ?  
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Bart and Mel . Bart says that both he is a knight and Mel is a knave . 
+Mel tells you that he would tell you that Bart is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Betty and Peggy . Betty tells you that Peggy is a knave . 
+Peggy says that Betty and she are both knights . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Bob and Mel . Bob tells you that at least one 
+of the following is true : that he is a knight or that Mel is a knave . Mel says that only a knave would say that Bob is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Bob and Alice . Bob tells you that Alice could say that he is a knight . 
+Alice says that it is not the case that Bob is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Alice and Ted . Alice tells you that either Ted is a knave or 
+she is a knight . Ted says that of he and Alice , exactly one is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Sue and Dave . Sue says you that of she and Dave , exactly one is a knight . 
+Dave claims that Sue would claim that he is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Bill and Dave . Bill says that it is false that Dave is a knave . 
+Dave says that he and Bill are different . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Sue and Marge . Sue says that Marge is a knave . 
+Marge claims that Sue and she are not the same . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Bob and Ted . Bob says that he is a knight or Ted is a knave . 
+Ted says that only a knave would say that Bob is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Bob and Peggy . Bob says that Peggy is a knave . 
+Peggy tells you that either Bob is a knight or she is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Rex and Marge . Rex tells you that he and Marge are knights . 
+Marge says that she would tell you that Rex is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Rex and Marge . Rex tells you that Marge and he are different . 
+Marge says that only a knave would say that Rex is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Peggy and Carl . Peggy tells you that only a knave would say 
+that Carl is a knave . Carl tells you that Peggy and he are different . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Mel and Homer . Mel says that he would tell you that Homer is a knave . 
+Homer tells you that either he is a knight or Mel is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Marge and Ted . Marge tells you that Ted and she are different . 
+Ted claims that only a knave would say that Marge is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Abe and Bozo . Abe says that he and Bozo are not the same . 
+Bozo tells you that he is a knight or Abe is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Rex and Abe . Rex says that he would tell you that Abe is a knight . 
+Abe tells you that it is false that Rex is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Sue and Joe . Sue says that she and Joe are different . 
+Joe claims that it is false that Sue is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Marge and Homer . Marge claims that she would 
+tell you that Homer is a knight . Homer says that Marge is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Sally and Ted . Sally says that she and Ted are different . 
+Ted says that he and Sally are both knights or both knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Bart and Sally . Bart tells you that Sally and he are not the same . 
+Sally says that she could tell you that Bart is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Bob and Sally . Bob tells you that at least one of the 
+following is true : that he is a knight or that Sally is a knave . Sally says that she would tell you that Bob is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Alice and Joe . Alice says that Joe and she are not the same . 
+Joe says that he is a knight or Alice is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Peggy and Alice . Peggy says that she and Alice are both knights 
+or both knaves . Alice says that Peggy and she are the same . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Alice and Joe . Alice tells you that at least one of the following 
+is true : that Joe is a knave or that she is a knight . Joe says that it is not the case that Alice is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Rex and Marge . Rex claims that both Marge is a knave and he is a knight . 
+Marge says that only a knave would say that Rex is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Marge and Betty . Marge tells you that she is a knight and Betty is a knave . 
+Betty says that she could claim that Marge is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Marge and Joe . Marge claims that Joe is a knave or she is a knight . 
+Joe says that Marge could tell you that he is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Carl and Bill . Carl says that he and Bill are both knights or both knaves . 
+Bill claims that only a knave would say that Carl is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Homer and Abe . Homer claims that it is false that Abe is a knave . 
+Abe says that he could claim that Homer is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Peggy and Joe . Peggy tells you that Joe is a knave . 
+Joe says that of Peggy and he , exactly one is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Bob and Bill . Bob says that Bill is a knave . 
+Bill says that Bob and he are different . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet two inhabitants : Abe and Betty . Abe tells you that Betty is a knave . 
+Betty says that Abe could say that she is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Alice , Rex and Bob . Alice claims that Rex is a knave . 
+Rex claims that it is false that Bob is a knave . Bob says that he is a knight or Alice is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Sue , Bob and Betty . Sue tells you that only a knave 
+would say that Bob is a knave . Bob claims that it is false that Betty is a knave . Betty tells you that Bob would tell you that she is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Peggy , Joe and Mel . Peggy claims that she is a knight or Joe is a knave . 
+Joe tells you that he knows that Peggy is a knight and that Mel is a knave . Mel says that he and Joe are different . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Marge , Ted and Alice . Marge claims that it is false that Alice is a knave . 
+Ted says that either he is a knight or Alice is a knight . Alice claims that Ted is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Sue , Bozo and Mel . Sue tells you that she could say that Mel is a knave . 
+Bozo claims that only a knave would say that Mel is a knave . Mel says that Sue and he are not the same . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Rex , Betty and Alice . Rex claims that it is false that Alice is a knave . 
+Betty tells you that either Rex is a knight or Alice is a knave . Alice tells you that she could say that Rex is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Marge , Mel and Bob . Marge claims that it is false that Bob is a knave . 
+Mel claims that he could claim that Marge is a knight . Bob says that he would tell you that Mel is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Joe , Peggy and Mel . Joe says that it is not the case that Mel is a knave . 
+Peggy tells you that Mel and Joe are both knights . Mel says that Joe is a knight or Peggy is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Betty , Bob and Ted . Betty claims that Bob could claim that Ted is a knight . 
+Ted claims that only a knave would say that Bob is a knave . Bob says that Betty is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Rex , Joe and Sally . Rex says that Sally is a knave . 
+Joe tells you that it is not the case that Rex is a knave . Sally claims that neither she nor Rex are knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Carl , Homer and Alice . Carl tells you that Alice is a knave . 
+Homer says that it is false that Carl is a knave . Alice claims that Carl could claim that she is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Mel , Sally and Bozo . Mel claims that Bozo and Sally are knaves . 
+Sally claims that either Bozo is a knight or Mel is a knave . Bozo says that it is not the case that Sally is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Carl , Bozo and Homer . 
+Carl tells you that he and Bozo are both knights or both knaves . Bozo says that he and Homer are knights . Homer says that he could say that Carl is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Sally , Homer and Carl . Sally says that Carl could claim that 
+she is a knight . Homer says that only a knave would say that Sally is a knave . Carl claims that Sally could claim that he is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Mel , Sally and Bozo . Mel tells you that Sally and he are not the same . 
+Sally tells you that Mel and Bozo are knaves . Bozo says that neither Sally nor Mel are knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Abe , Ted and Joe . Abe claims that Joe and Ted are the same . 
+Ted claims that at least one of the following is true : that he is a knight or that Joe is a knight . Joe says that Abe is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Abe , Betty and Sally . Abe tells you that Sally and Betty are different . 
+Betty says that it is false that Sally is a knave . Sally tells you that Abe is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Bart , Dave and Rex . Bart says that Dave is a knave or Rex is a knight . 
+Dave tells you that he could say that Rex is a knave . Rex claims that only a knave would say that Bart is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Alice , Dave and Ted . Alice tells you that both she is a 
+knight and Ted is a knave . Dave says that Alice is a knave . Ted tells you that Dave is a knave or Alice is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Betty , Sally and Carl . Betty claims that Sally would tell you 
+that Carl is a knight . Sally says that it is not the case that Carl is a knave . Carl claims that it is false that Betty is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Rex , Bart and Marge . Rex claims that Bart is a knave . 
+Bart says that Marge and he are both knights or both knaves . Marge claims that Bart is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Alice , Homer and Ted . Alice says that Ted and Homer are knaves . 
+Homer claims that Ted is a knave . Ted tells you that Alice is a knave or Homer is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Bill , Bart and Mel . Bill claims that it is false that Bart is a knave . 
+Bart says that of Mel and he , exactly one is a knight . Mel claims that he and Bart are both knights or both knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Homer , Dave and Bill . Homer tells you that neither Dave 
+nor Bill are knights . Dave tells you that Homer and Bill are both knights . Bill says that Homer is a knight or Dave is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Peggy , Joe and Abe . Peggy says that Joe and Abe are the same . 
+Joe says that Peggy is a knave . Abe claims that he and Joe are both knights or both knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Bob , Sally and Peggy . Bob claims that he is a knight or Peggy is a knave . 
+Sally says that of she and Peggy , exactly one is a knave . Peggy tells you that Sally is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Peggy , Mel and Joe . Peggy says that it is false that Mel is a knave . 
+Mel claims that Joe is a knave . Joe says that Peggy and he are both knights . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Bill , Dave and Ted . Bill tells you that he is a knight or Ted is a knight . 
+Dave says that only a knave would say that Ted is a knave . Ted claims that Dave and Bill are different . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants :  Betty , Alice and Carl . Betty claims that it is false that 
+Alice is a knave . Alice says that she and Carl are different . Carl claims that only a knave would say that Betty is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants :  Abe , Carl and Betty . Abe says that it is not the case that 
+Betty is a knave . Carl claims that Betty and Abe are knights . Betty claims that Carl could claim that she is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Bob , Sue and Bill . Bob tells you that Bill is a knave . 
+Sue tells you that only a knave would say that Bill is a knave . Bill claims that Bob and Sue are the same . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Joe , Ted and Alice . Joe says that Alice is a knave and Ted is a knight . 
+Ted says that he is a knight or Joe is a knave . Alice says that Ted is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Alice , Mel and Joe . Alice claims that Mel is a knave and Joe is a knight . 
+Mel says that Alice could say that he is a knave . Joe tells you that Mel and he are not the same . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Sue , Betty and Ted . Sue claims that Ted and she are knights . 
+Betty says that Sue is a knave . Ted claims that Betty could say that Sue is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Carl , Peggy and Joe . Carl says that he and Joe are both knights or 
+both knaves . Peggy says that Carl and Joe are different . Joe tells you that Carl and he are both knights or both knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Dave , Rex and Sue . Dave tells you that Rex could say that Sue is a knight . 
+Rex says that only a knave would say that Dave is a knave . Sue says that Rex and Dave are knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Alice , Homer and Ted . Alice claims that Homer could say that 
+she is a knave . Homer says that Ted is a knave . Ted tells you that Alice and Homer are the same . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Carl , Sue and Rex . Carl claims that Sue could say that he is a knight . 
+Sue tells you that it is false that Rex is a knave . Rex says that of he and Carl , exactly one is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Bob , Joe and Peggy . Bob says that Joe is a knave and Peggy is a knight . 
+Joe says that Bob is a knave . Peggy claims that neither Joe nor Bob are knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Bozo , Carl and Joe . Bozo claims that Carl is a knave . 
+Carl tells you that Joe could say that Bozo is a knave . Joe tells you that only a knave would say that Bozo is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Peggy , Joe and Sue . Peggy says that Sue is a knave . 
+Joe says that Sue is a knave . Sue tells you that Joe could say that she is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Marge , Alice and Betty . Marge says that Alice is a knave . 
+Alice says that Marge and Betty are both knights or both knaves . Betty tells you that Marge is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet three inhabitants : Bob , Mel and Peggy . Bob says that it is not the case that 
+Peggy is a knave . Mel says that Peggy is a knight or Bob is a knave . Peggy claims that both she is a knight and Bob is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Dave , Rex , Bart and Sue . Dave tells you that Bart could say that Rex is a 
+knave . Rex claims that he would tell you that Bart is a knave . Bart claims that only a knave would say that Sue is a knave . Sue says that she and Dave are different . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Bart , Dave , Rex and Sue . Bart tells you that Rex and Dave are both 
+knights or both knaves . Dave says that Sue is a knave . Rex claims that Bart is a knave . Sue claims that Rex is a knight and Dave is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Dave , Marge , Sue and Rex . Dave tells you that Sue is a knight or Rex 
+is a knight . Marge tells you that Sue and Dave are both knights . Sue says that she and Rex are knights . Rex tells you that Sue is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Ted , Carl , Sally and Peggy . Carl says that Sally is a knave . 
+Ted claims that he is a knight or Peggy is a knave . Sally claims that Ted is a knave . Peggy tells you that she and Ted are different . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Bob , Sally , Peggy and Dave . Bob claims that of Sally and Peggy , 
+exactly one is a knight . Sally claims that Dave and Peggy are both knights or both knaves . Peggy tells you that Bob and she are both knights . Dave says that Bob and Sally are not the same . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Ted , Carl , Alice and Rex . Ted says that only a knave would say 
+that Rex is a knave . Carl claims that Ted would tell you that Rex is a knight . Alice claims that Ted and Rex are both knights or both knaves . Rex says that at least one of the following is true : that Carl is a knave 
+or that Alice is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Rex , Peggy , Carl and Sally . Rex claims that he and Sally are both 
+knights or both knaves . Peggy claims that Rex is a knave or Carl is a knave . Carl tells you that Rex is a knave and Peggy is a knight . Sally says that Rex is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Bill , Mel , Ted and Alice . Bill tells you that Mel and Ted are not the same . 
+Mel claims that it is false that Alice is a knave . Ted says that Alice is a knight and Mel is a knave . Alice tells you that only a knave would say that Ted is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Sue , Alice , Homer and Ted . Sue says that she and Alice are not the same . 
+Alice claims that both Ted is a knight and Sue is a knave . Homer claims that he is a knight or Alice is a knave. Ted tells you that Sue and Homer are not the same . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Mel , Joe , Alice and Bart . Mel tells you that it is not the case that 
+Bart is a knave . Joe says that Bart and Mel are the same . Alice claims that both Mel is a knave and Joe is a knight . Bart says that Joe is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Homer , Joe , Bart and Betty . Homer tells you that Bart and Betty are not 
+the same . Joe says that Bart could say that Betty is a knave . Bart tells you that either Joe is a knight or Homer is a knave . Betty says that she and Homer are different . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Homer , Joe , Bart and Abe . Homer tells you that only a knave would say 
+that Bart is a knave . Joe claims that he is a knight or Abe is a knight . Bart says that Abe is a knave . Abe claims that he and Homer are not the same . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Dave , Sally , Alice and Bob . Dave says that only a knave would say 
+that Sally is a knave . Sally claims that Alice could claim that Bob is a knave . Alice tells you that it is false that Dave is a knave . Bob claims that only a knave would say that Dave is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Bob , Ted , Mel and Sue . Bob claims that Ted and Mel are both knights 
+or both knaves . Ted tells you that Mel is a knight or Sue is a knave . Mel says that either Sue is a knight or Ted is a knight . Sue claims that neither Bob nor Ted are knights . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Betty , Marge , Homer and Carl . Betty tells you that it is not the case 
+that Marge is a knave . Marge says that it is not the case that Homer is a knave . Homer claims that Carl would tell you that Marge is a knave . Carl says that at least one of the following is true : that he is a knight 
+or that Betty is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Bill , Bob , Betty and Marge . Bill tells you that Betty could say that 
+Bob is a knave . Bob tells you that Betty and Marge are different . Betty tells you that Bill is a knave . Marge says that neither Bill nor Betty are knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Bart , Abe , Bob and Mel . Bart says that he and Bob are both knights 
+or both knaves . Abe tells you that both Mel is a knave and Bob is a knight . Bob claims that Bart is a knave . Mel tells you that of Bart and Bob , exactly one is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Bozo , Marge , Bart and Ted . Bozo says that Bart and Ted are both knights . 
+Marge tells you that both Bart is a knight and Ted is a knave . Bart tells you that neither Marge nor Ted are knaves . Ted says that neither Bozo nor Marge are knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Betty , Rex , Alice and Homer. Betty claims that Rex and Alice are not 
+the same . Rex says that Homer could claim that Betty is a knave . Alice claims that either she is a knight or Rex is a knight . Homer tells you that he and Alice are not the same . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Carl , Bart , Ted and Sally . Carl claims that Ted and Sally are different . 
+Bart says that Carl is a knave or Ted is a knight . Ted tells you that he would tell you that Sally is a knight . Sally says that Ted could say that she is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Dave , Peggy , Alice and Ted. Dave tells you that it is false that Alice 
+is a knave . Peggy tells you that Dave and Alice are both knights or both knaves . Alice claims that Ted is a knave . Ted says that Dave is a knight and Alice is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Bozo , Carl , Betty and Sue . Bozo says that Sue could claim that Betty is 
+a knave . Carl says that only a knave would say that Bozo is a knave . Betty claims that it is not the case that Sue is a knave . Sue says that Carl is a knave or Bozo is a knight . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Mel , Carl , Sue and Ted . Mel claims that only a knave would say 
+that Carl is a knave . Carl says that Sue and Ted are different . Sue says that it is false that Ted is a knave . Ted tells you that only a knave would say that Mel is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Betty , Abe , Marge and Ted . Betty says that she is a knight or Marge 
+is a knight . Abe claims that only a knave would say that Ted is a knave . Marge says that Ted could claim that Betty is a knave . Ted tells you that he could claim that Abe is a knight . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Peggy , Bill , Dave and Mel . Peggy says that both Mel is a knave 
+and Dave is a knight . Bill claims that it is false that Peggy is a knave . Dave tells you that Peggy and Bill are both knights or both knaves . Mel says that Dave is a knight or Bill is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Alice , Rex , Bob and Homer . Alice tells you that Homer could say 
+that Bob is a knight . Rex tells you that Bob is a knave . Bob says that he is a knight or Homer is a knight . Homer tells you that Bob and he are different . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Betty , Bart , Peggy and Joe . Betty claims that only a knave would say 
+that Peggy is a knave . Bart says that neither Peggy nor Betty are knaves . Peggy tells you that Joe could say that she is a knave . Joe claims that Peggy and Betty are both knights . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Sue , Alice , Homer and Ted . Sue tells you that Alice is a knave . 
+Alice tells you that Ted is a knave . Homer claims that Alice is a knight and Ted is a knave . Ted says that he and Homer are different . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Betty , Alice , Marge and Bart . Betty claims that Alice is a knave . 
+Alice says that Bart is a knave . Marge tells you that Bart could say that Alice is a knight . Bart tells you that Betty would tell you that he is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Betty , Marge , Homer and Carl . Betty tells you that neither 
+Homer nor Carl are knaves . Marge tells you that either Betty is a knave or Homer is a knight . Homer claims that Marge and Betty are both knights . Carl says that Homer is a knave and Betty is a knight . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Dave , Bill , Peggy and Bob . Dave says that Bob could say that 
+Peggy is a knight . Bill claims that either Peggy is a knight or he is a knight . Peggy claims that Bill is a knave . Bob tells you that only a knave would say that Bill is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Rex , Joe , Sue and Ted . Rex tells you that Ted is a knave or 
+Joe is a knight . Joe says that Sue could claim that Ted is a knight . Sue says that she could claim that Joe is a knight . Ted claims that Sue and Joe are knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Rex , Marge , Betty and Bob . Rex says that Bob and Betty are both knights 
+or both knaves . Marge claims that Rex is a knave . Betty tells you that either Bob is a knight or Rex is a knave . Bob claims that Rex is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Dave , Carl , Sally and Betty . Dave says that he and Sally are knights . 
+Carl says that Dave is a knave . Sally says that Betty is a knave or Dave is a knave . Betty claims that Carl is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Dave , Sally , Bart and Mel . Dave says that he and Mel are both knights 
+or both knaves . Sally claims that it is false that Mel is a knave . Bart tells you that at least one of the following is true : that he is a knight or that Dave is a knight . Mel claims that it is not the case that 
+Dave is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Dave , Bob , Sally and Abe . Dave claims that he and Abe are the same . 
+Bob claims that Abe is a knave . Sally says that neither Abe nor Dave are knaves . Abe tells you that he is a knight and Dave is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Bob , Dave , Alice and Sally . Bob claims that Alice could say that Dave 
+is a knave . Dave tells you that Alice and Sally are not the same . Alice claims that it is not the case that Dave is a knave . Sally claims that it is false that Dave is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Homer , Mel , Rex and Sue . Homer tells you that Mel is a knight 
+and Rex is a knave . Mel tells you that Rex is a knave . Rex says that of Mel and Sue , exactly one is a knight . Sue claims that Homer is a knight or Rex is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Peggy , Dave , Betty and Ted . Peggy claims that Ted and Dave are knaves . 
+Dave says that Ted is a knave . Betty tells you that Ted and she are both knights or both knaves . Ted says that Peggy is a knight or Betty is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet four inhabitants : Joe , Alice , Bill and Dave . Joe tells you that Bill is a knight and Dave 
+is a knave . Alice says that either Dave is a knight or Joe is a knight . Bill claims that only a knave would say that Joe is a knave . Dave tells you that Joe is a knight or Bill is a knight . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Bozo , Alice , Sue , Marge and Dave . Bozo says that Sue and Dave are knaves . 
+Alice says that Dave is a knave and she is a knight . Sue says that at least one of the following is true : that Marge is a knight or that Alice is a knight . Marge says that it is false that Bozo is a knave . 
+Dave says that at least one of the following is true : that Marge is a knight or that Bozo is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Peggy , Betty , Joe , Carl and Bozo . 
+Peggy tells you that it is not the case that Joe is a knave . Betty says that either Joe is a knight or Bozo is a knight . Joe says that it is not the case that Betty is a knave . 
+Carl says that Bozo is a knight and Joe is a knave . Bozo says that Joe is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth  while knaves always lie . You meet five inhabitants : Marge , Alice , Bozo , Ted and Joe. Marge claims that it is false 
+that Bozo is a knave . Alice tells you that Marge would tell you that Joe is a knight . Bozo claims that Joe is a knave . Ted says that at least one of the following is true : that Joe is a knight or that Bozo is a knight . 
+Joe tells you that he could say that Bozo is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Marge , Bart , Rex , Dave and Alice . Marge tells you that Rex is a knight 
+and Dave is a knave . Bart claims that Rex is a knave or Marge is a knave . Rex tells you that only a knave would say that Alice is a knave . Dave tells you that Alice is a knave . 
+Alice tells you that either she is a knight or Bart is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Dave , Bart , Bill , Alice and Sally . Dave tells you that Sally could say 
+that Alice is a knight . Bart claims that both Dave is a knave and he is a knight . Bill says that Bart and Sally are knaves . Alice tells you that it is not the case that Dave is a knave . 
+Sally says that it is not the case that Bart is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Marge , Bart , Bill , Alice and Rex . Marge claims that it is not 
+the case that Alice is a knave . Bart says that Marge and he are both knights or both knaves . Bill says that it is false that Rex is a knave . Alice tells you that only a knave would say that Bill is a knave . 
+Rex claims that Bart and he are both knights or both knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Alice , Bill , Homer , Betty and Bozo . Alice tells you that only a 
+knave would say that Bill is a knave . Bill claims that both Bozo is a knave and he is a knight . Homer tells you that Betty is a knave . Betty claims that Alice is a knave or Homer is a knave . 
+Bozo says that at least one of the following is true : that Alice is a knight or that Bill is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Bozo , Bob , Joe , Dave and Sue. Bozo tells you that Dave and Bob are 
+the same . Bob claims that Sue is a knight or Dave is a knave . Joe says that both he is a knight and Bob is a knave . Dave claims that only a knave would say that Bozo is a knave . Sue claims that Dave is a knave and 
+Joe is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Bart , Marge , Sally , Carl and Dave . Bart tells you that Carl 
+could say that Marge is a knave . Marge tells you that Sally is a knave and Carl is a knight . Sally claims that only a knave would say that Carl is a knave . Carl claims that Marge could say that Dave is a knave . 
+Dave tells you that he is a knight or Sally is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Betty , Marge , Homer , Carl and Sue . Betty says that Carl is a knave 
+and Sue is a knight . Marge says that Betty is a knight and Homer is a knave . Homer claims that Sue is a knight and Marge is a knave . Carl says that Homer and Betty are knaves . 
+Sue claims that neither Carl nor Homer are knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Dave , Marge , Alice , Betty and Mel . Dave claims that Betty is a knight 
+or Mel is a knave . Marge says that Alice and Betty are knights . Alice claims that at least one of the following is true : that she is a knight or that Betty is a knave . Betty says that Mel could say that Marge is a knight . 
+Mel claims that Marge is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Dave , Ted , Mel , Homer and Sue . Dave says that at least one of 
+the following is true : that Mel is a knight or that Homer is a knave . Ted claims that Mel is a knight and Dave is a knave . Mel tells you that both Ted is a knight and Sue is a knave . Homer claims that Ted is a knave . 
+Sue claims that it is false that Dave is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Rex , Peggy , Sue , Joe and Homer . Rex tells you that Sue could say 
+that he is a knave . Peggy tells you that only a knave would say that Joe is a knave . Sue claims that Homer is a knave . Joe tells you that neither Rex nor Sue are knaves . Homer says that either Peggy is a knight 
+or Rex is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Carl , Joe , Rex , Bart and Alice . Carl claims that either he is a knight 
+or Bart is a knight . Joe tells you that neither he nor Alice are knaves . Rex says that Carl and Bart are not the same . Bart claims that it is not the case that Rex is a knave . Alice says that neither Joe nor Rex are knaves . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Homer , Ted , Betty , Abe and Dave . Homer says that Dave and Abe are 
+different . Ted tells you that at least one of the following is true : that Abe is a knight or that Dave is a knight . Betty says that Dave is a knave . Abe says that only a knave would say that Betty is a knave . 
+Dave claims that Betty could say that Abe is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Sue , Dave , Betty , Ted and Marge . Sue claims that Marge is a knight 
+and Betty is a knave . Dave says that it is not the case that Ted is a knave . Betty claims that she and Ted are not the same . Ted says that Betty is a knave . Marge tells you that Ted is a knight and Betty is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Rex , Marge , Alice , Betty and Homer . Rex says that only a knave would 
+say that Betty is a knave . Marge says that she is a knight and Betty is a knave . Alice claims that Homer is a knave . Betty tells you that she would tell you that Homer is a knave . Homer claims that Rex is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Bart , Marge , Bozo , Carl and Joe . Bart says that Carl and Bozo 
+are not the same . Marge claims that of Bart and she , exactly one is a knight . Bozo says that at least one of the following is true : that he is a knight or that Marge is a knave . 
+Carl says that either Bart is a knight or Joe is a knight . Joe claims that of Marge and Bozo , exactly one is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Peggy , Betty , Abe , Marge and Ted . Peggy says that Abe and Ted 
+are both knights . Betty says that Abe and she are different . Abe says that Betty is a knave . Marge tells you that it is not the case that Peggy is a knave. Ted claims that Abe and Peggy are both knights or both knaves . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Bill , Sue , Joe , Rex and Bart . Bill says that neither he 
+nor Joe are knaves . Sue says that Bill and Rex are both knights or both knaves . Joe claims that Rex is a knave or Sue is a knave . Rex tells you that it is false that Bart is a knave . Bart tells you that 
+Rex and Sue are both knights or both knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Joe , Marge , Betty , Homer and Mel. Joe tells you that Betty 
+would tell you that Marge is a knave . Marge tells you that Mel is a knave or Homer is a knave . Betty claims that Homer and Marge are both knights or both knaves . Homer says that only a knave would say that Betty is a knave . 
+Mel tells you that only a knave would say that Homer is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Dave , Bill , Alice , Betty and Ted . Dave claims that it is false that 
+Betty is a knave . Bill says that Ted is a knight and Dave is a knave . Alice tells you that Ted would tell you that Betty is a knave . Betty tells you that Ted could claim that she is a knave . 
+Ted says that at least one of the following is true : that Dave is a knight or that he is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Peggy , Joe , Ted , Bozo and Alice . Peggy says that Ted is a knave . 
+Joe claims that Ted would tell you that Alice is a knave . Ted claims that Bozo is a knave . Bozo claims that he could claim that Ted is a knight . Alice says that Joe would tell you that she is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Sue , Rex , Mel , Alice and Bozo . Sue says that only a knave would say 
+that Mel is a knave . Rex says that Bozo is a knave . Mel says that neither Alice nor Rex are knaves . Alice tells you that it is false that Bozo is a knave . Bozo claims that Alice and he are both knights or both knaves . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Alice , Peggy , Bob , Carl and Mel . Alice says that Peggy and she are 
+both knights or both knaves . Peggy says that Mel could say that Carl is a knight . Bob tells you that Alice is a knave . Carl tells you that he and Alice are not the same . Mel claims that either Alice is a knave or 
+Peggy is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Mel , Bill , Sue , Marge and Ted . Mel claims that 
+of Marge and Ted , exactly one is a knight . Bill tells you that neither Ted nor Marge are knaves . Sue claims that Bill is a knight or Mel is a knave . Marge says that of she and Ted , exactly one is a knight . Ted tells you 
+that Bill and Mel are not the same . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Bozo , Marge , Mel , Bob and Abe . Bozo says that he knows that Mel is a 
+knave and that Bob is a knight . Marge says that Mel could say that she is a knave . Mel claims that neither Marge nor Bozo are knights . Bob says that Abe and Marge are both knights or both knaves . 
+Abe claims that Marge is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Carl , Dave , Joe , Peggy and Bart . Carl claims that Peggy and he are 
+both knights or both knaves . Dave claims that at least one of the following is true : that Carl is a knave or that Joe is a knight . Joe says that both he is a knight and Bart is a knave . Peggy says that it is not 
+the case that Bart is a knave . Bart tells you that neither he nor Carl are knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Betty , Bob , Bill , Carl and Mel . Betty claims that Mel is a knave . 
+Bob says that Betty is a knave . Bill tells you that he knows that Bob is a knight and that Mel is a knave . Carl tells you that at least one of the following is true : that Bill is a knave or that Bob is a knight . 
+Mel tells you that Carl is a knight or Bill is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Betty , Alice , Abe , Mel and Bart . Betty says that either Bart is a knight 
+or Alice is a knave . Alice claims that neither Bart nor Betty are knaves . Abe tells you that neither Mel nor Betty are knaves . Mel tells you that at least one of the following is true : that he is a knight or that Alice is 
+a knave . Bart claims that Alice could say that he is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Betty , Marge , Homer , Carl and Bill . Betty claims that either Bill 
+is a knight or Marge is a knave . Marge says that neither Betty nor Carl are knights . Homer claims that he knows that Carl is a knight and that Betty is a knave . Carl tells you that at least one of the following 
+is true : that Betty is a knave or that Homer is a knave . Bill claims that Marge and Betty are both knights . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Carl , Bill , Homer , Bob and Marge . Carl claims that Bob would tell you 
+that Marge is a knave . Bill tells you that Carl is a knight or Bob is a knave . Homer says that Carl and Bob are not the same . Bob claims that it is not the case that Carl is a knave . Marge tells you that Carl is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Homer , Dave , Joe , Ted and Alice . Homer claims that Dave is a knave . 
+Dave says that Alice and Joe are both knights or both knaves . Joe says that Ted is a knave . Ted tells you that it is not the case that Homer is a knave . Alice claims that Homer is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Rex , Bob , Betty , Marge and Carl . Rex says that Bob is a knave . 
+Bob claims that Marge is a knave . Betty says that Rex and Bob are both knights or both knaves . Marge claim that both Betty is a knight and Carl is a knave . Carl tells you that Bob and Betty are the same . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Bozo , Marge , Mel , Bob and Sue . Bozo claims that Sue could say 
+that Marge is a knave . Marge says that at least one of the following is true : that Mel is a knight or that Bob is a knight . Mel claims that Bozo and Bob are knights . Bob tells you that Bozo and Marge are the same . 
+Sue tells you that she could say that Bob is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Mel , Sally , Abe , Bart and Bill . Mel claims that Bill is a knave . 
+Sally tells you that either Abe is a knave or Mel is a knave . Abe says that he knows that Sally is a knave and that Bill is a knight . Bart claims that of Abe and Bill , exactly one is a knight . 
+Bill tells you that Sally and Abe are both knights . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Joe , Dave , Bozo , Sally and Mel . Joe claims that Mel is a knave . 
+Dave says that only a knave would say that Sally is a knave . Bozo claims that it is not the case that Sally is a knave . Sally claims that of Bozo and she , exactly one is a knight . 
+Mel says that Joe is a knave or Bozo is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Carl , Bart , Ted , Abe and Bozo . Carl claims that Bart and Bozo are knaves . 
+Bart says that Bozo and Ted are different . Ted says that Bart is a knave . Abe claims that Ted is a knave . Bozo tells you that Abe is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet five inhabitants : Mel , Betty , Bozo , Bart and Ted . Mel says that Ted could say that Betty 
+is a knight . Betty claims that Bart and she are not the same . Bozo says that Bart is a knave . Bart says that at least one of the following is true : that he is a knight or that Ted is a knave . Ted says that Mel is a knave 
+or Bozo is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Joe , Bob , Ted , Betty , Alice and Dave . Joe claims that at least one 
+of the following is true : that he is a knight or that Alice is a knave . Bob says that he could say that Betty is a knight . Ted tells you that Betty is a knight and Alice is a knave . Betty tells you that it is false 
+that Bob is a knave . Alice tells you that either Betty is a knave or Dave is a knight . Dave tells you that it is not the case that Joe is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Betty , Rex , Peggy , Carl , Alice and Marge . 
+Betty claims that Marge is a knave . Rex tells you that Alice could say that Peggy is a knight . Peggy tells you that only a knave would say that Marge is a knave . Carl tells you that either Marge is a knight 
+or Peggy is a knight . Alice tells you that neither Marge nor Rex are knights . Marge claims that it is not the case that Rex is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Joe , Sally , Alice , Dave , Bob and Rex . Joe claims that only a knave 
+would say that Dave is a knave . Sally claims that Dave could say that Alice is a knave . Alice claims that Sally and Rex are not the same . Dave tells you that he knows that Bob is a knave and that Joe is a knight . 
+Bob says that Sally could say that Dave is a knight . Rex says that it is false that Sally is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Mel , Sally , Joe , Bob , Rex and Betty . Mel says that Bob and Betty 
+are both knights or both knaves . Sally claims that Mel would tell you that she is a knave . Joe says that Mel and Betty are different . Bob claims that Sally is a knave . Rex says that Mel and Joe are knaves . 
+Betty claims that neither she nor Rex are knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Rex , Mel , Homer , Alice , Sally and Joe . Rex says that Homer is a knave 
+or Sally is a knight . Mel says that it is not the case that Joe is a knave . Homer claims that Sally is a knave . Alice tells you that she knows that Homer is a knight and that Sally is a knave . 
+Sally claims that Alice is a knight or she is a knight . Joe says that Homer and Sally are knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Homer , Marge , Ted , Bart , Mel and Dave . Homer says that Mel is a knave 
+or Dave is a knight . Marge claims that Dave and Mel are both knights or both knaves . Ted tells you that Dave could say that he is a knight . Bart says that Marge is a knave . Mel tells you that Bart could say that 
+Ted is a knave . Dave says that he could say that Mel is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Joe , Alice , Bart , Abe , Bozo and Homer . Joe says that either 
+Bozo is a knight or Alice is a knight . Alice says that she and Abe are the same . Bart tells you that he could say that Homer is a knight . Abe tells you that Bozo could say that Alice is a knave . Bozo tells you 
+that Joe and Homer are both knights . Homer says that of Bart and Joe , exactly one is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Homer , Bill , Dave , Carl , Bozo and Sally . Homer claims that Bill 
+is a knave . Bill tells you that Dave could say that Bozo is a knave . Dave says that Homer is a knave . Carl says that Sally is a knight or Bill is a knave . Bozo says that either he is a knight or Bill is a knight . 
+Sally claims that it is false that Carl is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Sally , Bill , Betty , Joe , Sue and Bart . Sally claims that either Joe 
+is a knave or Bill is a knave . Bill tells you that Joe and Bart are the same . Betty claims that Sally is a knight or Bart is a knave . Joe tells you that it is false that Bill is a knave . Sue says that it is not the case 
+that Sally is a knave . Bart tells you that Bill and he are both knights or both knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Sue , Bart , Marge , Rex , Abe and Alice . Sue claims that Alice and Abe 
+are knaves . Bart tells you that he knows that Marge is a knave and that Abe is a knight . Marge tells you that Bart is a knight and Alice is a knave . Rex claims that only a knave would say that Sue is a knave . 
+Abe says that either he is a knight or Rex is a knight . Alice tells you that only a knave would say that Abe is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Marge , Ted , Carl , Alice , Rex and Bill . 
+Marge claims that Alice is a knight or Bill is a knight . Ted says that Carl is a knave . Carl says that neither Alice nor Marge are knights . Alice claims that she knows that Marge is a knight and that Ted is a knave . 
+Rex claims that it is false that Ted is a knave . Bill tells you that he is a knight or Marge is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Peggy , Carl , Bob , Marge , Alice and Sally . Peggy claims that 
+both Bob is a knave and she is a knight . Carl says that Sally and Bob are knaves. Bob tells you that Alice and Marge are both knights or both knaves . Marge says that Peggy and Carl are both knights . 
+Alice claims that Marge could claim that Peggy is a knight . Sally claims that it is false that Bob is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Betty , Alice , Carl , Sally , Bart and Ted . Betty says that 
+Ted and Bart are knaves . Alice says that Betty and Sally are knaves . Carl tells you that Betty could claim that Alice is a knight . Sally claims that Bart could claim that Betty is a knight . Bart tells you that 
+Sally is a knave . Ted says that it is false that Bart is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Alice , Betty , Mel , Abe , Ted and Peggy . Alice claims that Abe is a knave . 
+Betty tells you that it is false that Ted is a knave . Ted claims that Mel is a knave . Abe claims that Peggy and Alice are knaves . Mel says that it is false that Alice is a knave . Peggy says that only a knave 
+would say that Betty is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Bob , Betty , Marge , Sally , Bozo and Homer . Bob says that either 
+Homer is a knight or Marge is a knave . Betty says that of Marge and Sally , exactly one is a knight . Marge tells you that at least one of the following is true : that she is a knight or that Homer is a knave . 
+Sally tells you that Bozo and she are the same . Bozo tells you that at least one of the following is true : that Sally is a knight or that Homer is a knave . Homer claims that he knows that Marge is a knight 
+and that Sally is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Bozo , Alice , Sally , Abe , Bart and Sue . Bozo says that Bart is a knave . 
+Alice tells you that Abe and Bart are not the same . Sally says that it is not the case that Alice is a knave . Abe tells you that Sally could say that Sue is a knave . Bart tells you that he and Sally are not the same . 
+Sue claims that she could say that Bart is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Sally , Marge , Betty , Bob , Rex and Dave . Sally tells you that it is false 
+that Dave is a knave . Marge tells you that at least one of the following is true : that Rex is a knight or that Bob is a knight . Betty claims that Dave is a knight and Sally is a knave . Bob says that Dave is a knave 
+or Betty is a knave . Rex tells you that Dave is a knave . Dave claims that he could say that Sally is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Bill , Homer , Alice , Mel , Rex and Dave . Bill claims that 
+Alice and Dave are knaves . Homer says that it is not the case that Rex is a knave. Alice tells you that Rex is a knave . Mel claims that Alice is a knave . Rex tells you that at least one of the following 
+is true : that Mel is a knave or that he is a knight . Dave says that Mel is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Dave , Joe , Ted , Bart , Betty and Abe . Dave says that it is not the case 
+that Betty is a knave . Joe says that both Betty is a knave and he is a knight . Ted says that he knows that Bart is a knave and that Abe is a knight . Bart tells you that Ted is a knave or he is a knight . 
+Betty claims that Bart is a knave or Abe is a knave . Abe claims that both Joe is a knave and Bart is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Bob , Ted , Alice , Sally , Mel and Bill . Bob says that Mel is a knave . 
+Ted says that Bill is a knave . Alice tells you that Bill and Sally are both knights or both knaves . Sally tells you that Bob is a knave . Mel says that he is a knight and Alice is a knave . Bill says that Bob is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Abe , Betty , Ted , Sally , Bozo and Dave . Abe says that it is not the case 
+that Sally is a knave . Betty tells you that Abe is a knave . Ted claims that Abe is a knave . Sally tells you that both Abe is a knight and Bozo is a knave . Bozo says that he is a knight or Dave is a knight . 
+Dave claims that Bozo is a knave or Sally is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Dave , Homer , Mel , Ted , Abe and Alice . Dave says that only a knave 
+would say that Abe is a knave . Homer claims that Alice is a knight or Dave is a knight . Mel tells you that Abe is a knave . Ted says that it is not the case that Abe is a knave . Abe claims that Dave could claim that 
+Ted is a knave . Alice says that it is false that Dave is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Alice , Betty , Mel , Bill , Abe and Sue . Alice tells you that Sue 
+is a knave and Betty is a knight . Betty says that at least one of the following is true : that Sue is a knave or that Alice is a knave . Mel claims that only a knave would say that Sue is a knave . Bill claims that 
+of he and Alice , exactly one is a knight . Abe says that Bill is a knave . Sue says that both Alice is a knave and Abe is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Peggy , Betty , Abe , Bozo , Carl and Ted . Peggy claims that Ted is a knave . 
+Betty says that it is false that Bozo is a knave . Abe claims that of Peggy and Ted , exactly one is a knight . Bozo claims that at least one of the following is true : that Abe is a knave or that Carl is a knight . 
+Carl says that at least one of the following is true : that Betty is a knave or that Bozo is a knight . Ted tells you that Bozo and Carl are not the same . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Carl , Sally , Joe , Rex , Abe and Betty . Carl claims that either Rex 
+is a knight or Joe is a knight . Sally claims that Abe could claim that she is a knave . Joe tells you that Betty is a knave . Rex says you that Betty is a knave . Abe tells you that Sally is a knave . 
+Betty tells you that Sally is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Sally , Homer , Ted , Mel , Bart and Bill . Sally tells you that 
+it is not the case that Mel is a knave . Homer tells you that he would tell you that Ted is a knave . Ted says that only a knave would say that Homer is a knave . Mel says that he knows that Ted is a knave and that 
+Bill is a knight . Bart says that Ted and Homer are knights . Bill says that Ted is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Joe , Mel , Ted , Sally , Alice and Bart . Joe tells you that 
+Bart could say that Ted is a knave . Mel says that it is not the case that Sally is a knave . Ted says that Mel and Bart are not the same . Sally claims that it is false that Ted is a knave . Alice tells you that 
+Bart could claim that Ted is a knight . Bart says that Joe is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Sue , Carl , Homer , Alice , Rex and Marge . Sue says that Alice and 
+Homer are knaves . Carl claims that Marge is a knave or Rex is a knave . Homer tells you that Marge and Rex are knights . Alice says that Homer could say that Carl is a knight . Rex claims that Alice is a knave . 
+Marge says that Homer could say that Carl is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Betty , Rex , Sue , Carl , Homer and Marge . Betty tells you that Rex 
+could claim that Carl is a knight. Rex tells you that neither Marge nor Sue are knaves . Sue claims that at least one of the following is true : that she is a knight or that Marge is a knave . 
+Carl says that he is a knight or Rex is a knave . Homer tells you that of Rex and Carl , exactly one is a knight . Marge says that Sue could claim that Homer is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Marge , Mel , Peggy , Dave , Carl and Ted . Marge says that Ted would tell 
+you that she is a knave . Mel claims that he and Ted are knights . Peggy claims that Marge and Dave are both knights or both knaves . Dave tells you that Ted is a knave . Carl says that it is false that Mel is a knave . 
+Ted claims that Mel could claim that Marge is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Joe , Sue , Bart , Dave , Sally and Ted . Joe claims that Ted and Dave 
+are knights . Sue says that Joe and Bart are not the same . Bart claims that Dave and he are different . Dave tells you that Ted would tell you that Sue is a knight . Sally claims that Dave and Joe are both knights or 
+both knaves . Ted claims that neither Bart nor he are knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Bill , Alice , Abe , Bob , Dave and Sue . Bill claims that Abe is a knave 
+and Alice is a knight . Alice claims that both Abe is a knight and Dave is a knave . Abe claims that neither Sue nor Bob are knaves . Bob claims that neither Bill nor Abe are knaves . Dave tells you 
+that Alice and Sue are knights . Sue says that neither Bill nor Dave are knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Bill , Peggy , Dave , Carl , Sally and Betty . Bill tells you that Dave 
+and Betty are both knights or both knaves . Peggy says that of Bill and she , exactly one is a knight . Dave tells you that Peggy and Betty are different . Carl says that Peggy and Sally are both knights . Sally claims that 
+Betty would tell you that Carl is a knight . Betty claims that both she is a knight and Carl is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Betty , Dave , Bill , Abe , Bob and Alice. Betty says that it is false 
+that Bill is a knave . Dave says that Bob is a knave or Alice is a knight . Bill tells you that Bob and Betty are both knights or both knaves . Abe tells you that Bill is a knave . Bob says that Dave is a knave . 
+Alice claims that it is false that Abe is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Bill , Peggy , Betty , Sue , Dave and Mel . Bill says that he knows 
+that Dave is a knave and that Betty is a knight . Peggy claims that at least one of the following is true : that Dave is a knave or that Sue is a knave . Betty claims that Mel is a knave or Sue is a knave . Sue says that 
+Mel is a knave . Dave claims that it is false that Sue is a knave . Mel claims that Peggy and Dave are the same . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Marge , Mel , Bob , Sue , Alice and Bill . Marge claims that neither 
+she nor Bill are knaves . Mel says that of Bill and Marge , exactly one is a knight . Bob says that Mel is a knave . Sue tells you that Mel is a knave . Alice claims that both Bob is a knave and Mel is a knight . 
+Bill says that Mel is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Mel , Abe , Bozo , Carl , Alice and Betty . Mel claims that neither 
+Bozo nor Alice are knaves . Abe tells you that at least one of the following is true : that Alice is a knave or that Betty is a knave . Bozo tells you that Abe is a knave and Carl is a knight . Carl claims that 
+neither Alice nor Mel are knaves . Alice says that neither she nor Mel are knaves . Betty says that Mel is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet six inhabitants : Rex , Dave , Carl , Sally , Alice and Bart . Rex says 
+that Sally and Dave are knaves . Dave claims that it is not the case that Alice is a knave . Carl says that he is a knight or Rex is a knave . Sally tells you that at least one of the following is true : that Dave is a knave 
+or that Carl is a knight . Alice tells you that Rex could say that Bart is a knave . Bart says that Carl would tell you that Rex is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Ted , Sue , Alice , Marge , Joe , Sally and Betty . Ted tells you 
+that Alice is a knave . Sue claims that Alice could claim that Betty is a knight . Alice says that Sally is a knight or Sue is a knight . Marge claims that it is false that Betty is a knave . Joe says that only a knave 
+would say that Ted is a knave . Sally claims that she is a knight and Betty is a knave . Betty says that Joe is a knave or Ted is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Sally , Ted , Sue , Bob , Abe , Bill and Betty . Sally says that either 
+Betty is a knight or Ted is a knave . Ted claims that both Sally is a knave and Bill is a knight . Sue tells you that she is a knight or Betty is a knave . Bob tells you that Sue is a knave . Abe claims that Sue is a knave . 
+Bill claims that at least one of the following is true : that Bob is a knave or that Sally is a knight . Betty tells you that it is not the case that Ted is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Mel , Joe , Ted , Bart , Marge , Alice and Bozo . Mel claims 
+that Bozo is a knave or Joe is a knave . Joe tells you that Ted is a knave . Ted tells you that Joe would tell you that Bart is a knave . Bart tells you that Bozo would tell you that Ted is a knight . Marge tells you that Bart is a knave . 
+Alice says that Bozo is a knight or Bart is a knight . Bozo tells you that neither Alice nor Marge are knights . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Peggy , Betty , Joe , Dave , Bozo , Sally and Mel . 
+Peggy says that it is false that Betty is a knave . Betty tells you that both Bozo is a knave and Peggy is a knight . Joe tells you that he knows that Bozo is a knight and that Mel is a knave . Dave claims 
+that Peggy and Joe are knaves . Bozo says that it is false that Peggy is a knave . Sally claims that Dave is a knave or Joe is a knight . Mel says that Peggy and Bozo are knaves . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Homer , Mel , Ted , Alice , Sue , Bob and Betty . Homer says 
+that Ted could claim that Sue is a knight . Mel tells you that Bob and Alice are both knights or both knaves . Ted claims that Bob and Homer are knaves . Alice says that Homer is a knave or Sue is a knave . Sue tells you 
+that Betty and Ted are both knights or both knaves . Bob claims that Sue is a knave or Ted is a knave . Betty claims that at least one of the following is true : that Bob is a knight or that Alice is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Betty , Sue , Homer , Mel , Carl , Alice and Rex . Betty tells you that 
+Carl is a knave . Sue tells you that Betty is a knave and Mel is a knight . Homer says that Alice would tell you that Rex is a knight . Mel tells you that either Sue is a knave or Betty is a knave . Carl says that 
+he could say that Alice is a knight . Alice claims that Rex is a knave. Rex claims that Betty and Mel are both knights or both knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Bill , Alice , Betty , Sue , Homer , Mel and Ted . Bill claims that 
+Alice could say that Homer is a knight . Alice says that either Sue is a knave or Ted is a knight . Betty tells you that Mel is a knight or Alice is a knave . Sue claims that only a knave would say that Ted is a knave . 
+Homer says that Mel is a knave . Mel says that it is false that Alice is a knave . Ted tells you that both Alice is a knight and Homer is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Carl , Sally , Sue , Joe , Homer , Bill and Ted . Carl tells you that 
+Homer could claim that Ted is a knave . Sally tells you that Ted could say that Joe is a knight . Sue says that Joe could say that Carl is a knave . Joe claims that it is not the case that Carl is a knave . Homer tells you 
+that he and Sally are knights . Bill tells you that Joe is a knave and Homer is a knight . Ted claims that Joe could claim that he is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Betty , Marge , Homer , Carl , Alice , Dave and Bob . Betty says 
+that Bob is a knave or Homer is a knave . Marge claims that Carl could claim that Homer is a knight . Homer says that he could claim that Marge is a knave . Carl says that Bob is a knave or Alice is a knave . Alice says 
+that at least one of the following is true : that Homer is a knight or that Marge is a knave . Dave claims that Betty is a knight or Homer is a knight . Bob claims that Alice is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Dave , Sally , Carl , Alice , Betty , Sue and Bart . Dave claims 
+that Alice is a knight or Bart is a knave . Sally says that Alice is a knight and Bart is a knave . Carl tells you that either Alice is a knave or Betty is a knight . Alice says that Sally could say that Dave is a knight . 
+Betty claims that Sue is a knave or Bart is a knave . Sue tells you that both Betty is a knave and Alice is a knight . Bart claims that only a knave would say that Alice is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Sue , Joe , Carl , Sally , Abe , Dave and Bart . Sue tells you that neither 
+Bart nor Abe are knaves . Joe says that neither Sally nor Bart are knights . Carl claims that Sue is a knave . Sally tells you that Bart is a knave . Abe tells you that Bart is a knave . Dave tells you that he is a knight 
+or Sue is a knave . Bart says that both Sue is a knight and Joe is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Bozo , Homer , Dave , Carl , Peggy , Rex and Abe . Bozo tells you that 
+Homer and Peggy are both knights . Homer says that Dave is a knave . Dave claims that Bozo is a knave or Abe is a knave . Carl claims that Bozo is a knave or Peggy is a knave . Peggy claims that Abe is a knave or 
+Bozo is a knave . Rex says that Carl is a knave . Abe says that both Rex is a knight and Peggy is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Sue , Sally , Homer , Bart , Mel , Bozo and Dave . Sue says that it is 
+false that Homer is a knave . Sally says that it is not the case that Dave is a knave . Homer says that neither Mel nor he are knaves . Bart tells you that Mel and Bozo are different . Mel tells you that Sally could say 
+that Homer is a knave . Bozo tells you that he knows that Homer is a knave and that Mel is a knight . Dave tells you that Sue and Homer are both knights or both knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Mel , Joe , Ted , Bart , Marge , Bozo and Carl . Mel claims that Bart is a 
+knight and Bozo is a knave . Joe claims that only a knave would say that Marge is a knave . Ted claims that at least one of the following is true : that Bart is a knight or that Bozo is a knave . Bart says that both Mel is a 
+knight and Ted is a knave . Marge tells you that Mel is a knave . Bozo tells you that Carl is a knave . Carl says that Bozo is a knave or Bart is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Sally , Alice , Bill , Marge , Betty , Ted and Mel . Sally says 
+that Ted is a knave . Alice says that Betty is a knave . Bill claims that neither Betty nor Marge are knaves . Marge claims that Sally and Mel are not the same . Betty tells you that Ted is a knave . Ted claims that he 
+could say that Mel is a knight . Mel claims that it is not the case that Betty is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Mel , Bart , Alice , Sally , Carl , Dave and Rex . Mel says that he knows 
+that Dave is a knight and that Carl is a knave . Bart claims that only a knave would say that Rex is a knave . Alice claims that Bart and Dave are both knights or both knaves . Sally says that Mel is a knave . Carl says that it 
+is false that Sally is a knave . Dave claims that it is false that Carl is a knave . Rex tells you that Dave would tell you that Carl is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Dave , Alice , Bill , Sally , Joe , Mel and Peggy . Dave says that at least 
+one of the following is true : that Sally is a knight or that Joe is a knave . Alice tells you that either Mel is a knight or Dave is a knave . Bill tells you that both Joe is a knave and Alice is a knight . 
+Sally says that Dave is a knight or Mel is a knight . Joe tells you that Peggy is a knave . Mel claims that of Bill and Alice , exactly one is a knight . Peggy tells you that neither Mel nor Dave are knaves . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Mel , Dave , Bart , Bill , Bob , Joe and Peggy . Mel says that Joe and 
+Dave are different . Dave tells you that Peggy would tell you that he is a knave . Bart tells you that Joe is a knave or Mel is a knave . Bill claims that of Mel and Bart , exactly one is a knight . Bob claims 
+that Peggy and Joe are both knights . Joe tells you that Dave would tell you that Bart is a knight . Peggy claims that it is not the case that Joe is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Mel , Peggy , Dave , Joe , Alice , Homer and Abe . Mel says 
+that Dave is a knave or Alice is a knight . Peggy says that only a knave would say that Homer is a knave . Dave tells you that Joe is a knight and Mel is a knave . Joe tells you that Dave is a knight and Mel is a knave . 
+Alice claims that either Joe is a knave or Homer is a knight . Homer claims that Abe is a knave . Abe says that only a knave would say that Mel is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Mel , Alice , Ted , Bob , Betty , Marge and Bill . Mel claims 
+that Betty and Alice are the same . Alice says that either she is a knight or Bill is a knight . Ted says that Betty is a knave . Bob tells you that of Betty and Ted , exactly one is a knight . Betty claims that Alice is 
+a knave . Marge claims that only a knave would say that Betty is a knave . Bill says that Bob could say that Alice is a knave .  Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Alice , Sally , Carl , Mel , Abe , Betty and Ted . Alice says 
+that Ted is a knight or Sally is a knight . Sally says that Ted is a knave or Betty is a knight . Carl claims that he knows that Mel is a knave and that Ted is a knight . Mel claims that both he is a knight and Abe is a knave . 
+Abe claims that only a knave would say that Alice is a knave . Betty says that at least one of the following is true : that Mel is a knight or that Alice is a knight . Ted tells you that of Sally and Abe , exactly one 
+is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Bob , Dave , Ted , Bill , Carl , Mel and Joe . Bob claims 
+that Dave and Bill are knights . Dave claims that at least one of the following is true : that Carl is a knight or that Joe is a knight . Ted says that Bill would tell you that Bob is a knight . Bill tells you that he could say 
+that Ted is a knight . Carl claims that Mel would tell you that Dave is a knave . Mel claims that Carl and Bill are both knights or both knaves . Joe says that Bill and Mel are knights . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Carl , Betty , Rex , Bart , Marge , Alice and Bob . Carl claims 
+that Alice and he are knights . Betty says that Carl could say that she is a knight . Rex tells you that Carl is a knave and Marge is a knight . Bart tells you that it is not the case that Betty is a knave . Marge claims 
+that Alice is a knave or Bob is a knight . Alice claims that it is false that Bart is a knave . Bob says that of Bart and Betty , exactly one is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Betty , Carl , Abe , Rex , Peggy , Sue and Joe . Betty tells you 
+that Rex is a knave . Carl tells you that at least one of the following is true : that Betty is a knave or that Joe is a knight . Abe says that Peggy is a knave and Carl is a knight . Rex says that neither Betty nor he are knaves . 
+Peggy claims that neither she nor Abe are knaves . Sue says that Abe and Peggy are both knights or both knaves . Joe claims that only a knave would say that Rex is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Betty , Bob , Rex , Ted , Marge , Bart and Bozo . Betty says that she knows 
+that Ted is a knight and that Bozo is a knave . Bob claims that Marge is a knight or Bozo is a knight . Rex tells you that either Marge is a knight or Bozo is a knave . Ted tells you that at least one of the following is 
+true : that he is a knight or that Rex is a knight . Marge claims that Ted is a knave and Bozo is a knight . Bart claims that Ted is a knave and Rex is a knight . Bozo says that Betty could claim that Bob is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Sally , Ted , Mel , Bill , Bart , Rex and Joe . Sally says that she knows 
+that Rex is a knave and that Mel is a knight . Ted tells you that Bart is a knave . Mel says that Sally could claim that Bill is a knight . Bill says that at least one of the following is true : that Mel is a knave or 
+that Rex is a knight . Bart says that Bill is a knave . Rex claims that at least one of the following is true : that Joe is a knave or that he is a knight . Joe tells you that Sally and he are knights . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Sally , Carl , Homer , Marge , Betty , Bob and Bill . Sally says that 
+Bob and Marge are knaves . Carl says that of he and Marge , exactly one is a knight . Homer tells you that neither Betty nor Bill are knaves . Marge tells you that Bill and Sally are both knights or both knaves . Betty claims 
+that Bill could claim that Bob is a knight . Bob says that he knows that Carl is a knave and that he is a knight . Bill claims that Carl could say that Bob is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Mel , Carl , Ted , Homer , Alice , Sue and Dave . Mel says that Dave is a 
+knave and Carl is a knight . Carl claims that Sue could say that he is a knave . Ted tells you that Dave is a knave or he is a knight . Homer says that it is false that Dave is a knave . Alice tells you that Dave is a knave . 
+Sue says that she could say that Alice is a knight . Dave says that only a knave would say that Carl is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Joe , Rex , Peggy , Bart , Abe , Sally and Bill . Joe tells you that 
+he knows that Bill is a knight and that Abe is a knave . Rex tells you that only a knave would say that Joe is a knave . Peggy says that Sally and Joe are knights . Bart tells you that he knows that Abe is a knave and that 
+Sally is a knight . Abe claims that only a knave would say that Bill is a knave . Sally says that neither Abe nor Peggy are knaves . Bill tells you that at least one of the following is true : that Rex is a knight or 
+that Bart is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Alice , Carl , Bill , Sue , Betty , Mel and Sally . Alice says 
+that Sue is a knight or Sally is a knight . Carl claims that Alice is a knave . Bill claims that only a knave would say that Betty is a knave . Sue claims that Mel could say that Betty is a knave . Betty claims 
+that at least one of the following is true : that Carl is a knight or that Sue is a knave . Mel claims that at least one of the following is true : that Carl is a knight or that Betty is a knight . Sally claims 
+that Betty is a knave or Sue is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Mel , Betty , Ted , Marge , Homer , Carl and Abe . Mel tells you that he 
+and Abe are not the same . Betty claims that only a knave would say that Carl is a knave . Ted claims that Marge and Abe are both knights . Marge says that both she is a knight and Mel is a knave . Homer says that Marge is 
+a knave . Carl tells you that Ted and Homer are knights . Abe says that Homer could say that Carl is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Sue , Bob , Mel , Ted , Sally , Alice and Marge . Sue tells you that either 
+Sally is a knave or Bob is a knight . Bob claims that Alice and Sue are not the same . Mel tells you that he knows that Marge is a knave and that Ted is a knight . Ted says that Marge is a knave or Alice is a knave . Sally says 
+that Ted could say that Alice is a knave . Alice tells you that she and Marge are both knights or both knaves . Marge tells you that Sue is a knave or Sally is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Ted , Carl , Alice , Bill , Marge , Bart and Bozo . Ted says 
+that Alice is a knave or Bozo is a knight . Carl claims that either Marge is a knave or Bozo is a knight . Alice says that Carl and Marge are both knights . Bill says that Bart is a knave . Marge tells you that she knows 
+that Bozo is a knave and that Alice is a knight . Bart says that Ted and Alice are both knights or both knaves . Bozo tells you that he is a knight or Bart is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Joe , Carl , Marge , Betty , Sally , Abe and Bart . Joe tells you that 
+Carl and Bart are knaves . Carl tells you that Abe could claim that Sally is a knight . Marge says that Joe is a knight and Abe is a knave . Betty claims that Bart would tell you that Marge is a knave . Sally tells you that 
+Abe and Betty are knaves . Abe claims that either Joe is a knight or Betty is a knave . Bart says that Sally is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Bart , Carl , Sue , Joe , Ted , Dave and Sally . Bart says that Sally would 
+tell you that he is a knave . Carl tells you that he knows that Dave is a knave and that he is a knight . Sue says that Ted is a knave or Bart is a knave . Joe claims that it is false that Sue is a knave . Ted tells you that of 
+Dave and Sue , exactly one is a knight . Dave tells you that Carl and Joe are both knights or both knaves . Sally says that only a knave would say that Bart is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Rex , Joe , Carl , Sally , Bart , Bozo and Dave . Rex claims 
+that Carl is a knave . Joe claims that Bozo could say that he is a knave . Carl says that it is false that Sally is a knave . Sally says that Dave is a knave or Joe is a knight . Bart tells you that Rex is a knave . 
+Bozo tells you that Carl and Joe are not the same . Dave says that Bart is a knight and Sally is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Bob , Betty , Marge , Homer , Carl , Bill and Peggy . Bob claims that 
+it is false that Carl is a knave . Betty says that both Bill is a knave and Homer is a knight . Marge tells you that Bill is a knave . Homer claims that both Bill is a knight and Bob is a knave . Carl claims that Bill would 
+tell you that Betty is a knight . Bill says that Peggy could say that Bob is a knave . Peggy tells you that Carl is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet seven inhabitants : Homer , Mel , Bill , Sue , Carl , Bozo and Alice . Homer claims that 
+Sue and Mel are different . Mel claims that both Alice is a knight and Bozo is a knave . Bill tells you that Homer would tell you that Mel is a knight . Sue says that either Alice is a knave or Mel is a knight . 
+Carl tells you that Mel and Sue are the same . Bozo claims that Bill is a knight or Carl is a knight . Alice says that of Homer and Sue , exactly one is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Bozo , Bob , Mel , Ted , Alice , Marge , Dave and Carl . Bozo tells you 
+that Carl is a knight or Dave is a knight . Bob tells you that at least one of the following is true : that Ted is a knight or that Dave is a knight . Mel says that Marge is a knave . Ted claims that Carl and Alice are both 
+knights or both knaves . Alice claims that only a knave would say that Bob is a knave . Marge tells you that Carl could claim that Alice is a knave . Dave tells you that either Marge is a knave or Ted is a knave . 
+Carl claims that he and Marge are not the same . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Dave , Carl , Sally , Sue , Bart , Joe , Alice and Bob . Dave claims that 
+only a knave would say that Bart is a knave . Carl tells you that Bob and Sally are different . Sally tells you that Bob is a knave . Sue says that at least one of the following is true : that Bart is a knight or that Joe is 
+a knave . Bart says that either Carl is a knave or Sally is a knight . Joe claims that Dave and Bob are knights . Alice claims that Sue is a knave and Bart is a knight . Bob tells you that Sally is a knave and Alice is a knight . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Ted , Peggy , Sally , Alice , Marge , Bill , Sue and Dave . Peggy says that 
+only a knave would say that Ted is a knave . Sally tells you that Dave and Peggy are both knights or both knaves . Ted tells you that Peggy could say that Sue is a knight . Alice claims that Sally is a knave . Sue tells you 
+that she could claim that Ted is a knight . Dave claims that at least one of the following is true : that he is a knight or that Bill is a knave . Marge tells you that Bill is a knave . Bill claims that Ted is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Rex , Marge , Bill , Alice , Sally , Ted , Mel and Betty . Rex claims that 
+either he is a knight or Mel is a knight . Marge says that Rex and Mel are the same . Bill tells you that Betty and Ted are knaves . Alice tells you that at least one of the following is true : that Bill is a knave or 
+that Marge is a knave . Sally claims that Alice is a knave and Ted is a knight . Ted says that Rex is a knave or Alice is a knave . Mel says that he could say that Ted is a knight . Betty says that she is a knight 
+and Ted is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Bart , Bill , Dave , Carl , Bozo , Sally , Mel and Homer . Bart claims that 
+at least one of the following is true : that Sally is a knave or that Bill is a knight . Bill claims that Carl could say that Homer is a knave . Dave tells you that Bart is a knave . Carl claims that either Bart is a knight 
+or Bozo is a knave . Bozo claims that Carl and Homer are knaves . Sally says that either Bozo is a knight or Homer is a knave . Mel claims that Bart and Sally are both knights or both knaves . Homer claims that at least one 
+of the following is true : that Bozo is a knave or that Carl is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Alice , Carl , Sue , Rex , Mel , Dave , Bozo and Betty . Alice tells you 
+that only a knave would say that Sue is a knave . Carl says that Sue is a knight and Alice is a knave . Sue claims that both Bozo is a knave and Carl is a knight . Rex says that it is not the case that Sue is a knave . 
+Mel tells you that either Betty is a knight or Bozo is a knight . Dave says that Sue is a knave . Bozo says that Dave could say that Sue is a knave . Betty claims that she knows that Sue is a knight and that Rex is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Carl , Alice , Bozo , Sally , Betty , Ted , Bill and Dave . Carl tells you 
+that Dave is a knight and Betty is a knave . Alice tells you that at least one of the following is true : that Betty is a knight or that Bozo is a knave . Bozo says that Dave is a knave . Sally says that at least one of the 
+following is true : that Ted is a knave or that Betty is a knave . Betty claims that at least one of the following is true : that Carl is a knave or that Dave is a knight . Ted claims that Alice is a knave . 
+Bill says that Ted and Dave are the same . Dave says that Bozo and Alice are knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Rex , Alice , Carl , Ted , Marge , Abe , Bart and Bill . Rex claims that 
+both Marge is a knave and Bart is a knight . Alice tells you that Bill could say that Carl is a knave . Carl says that at least one of the following is true : that Abe is a knave or that Alice is a knave . Ted claims that 
+it is false that Alice is a knave . Marge claims that Bill is a knight or Alice is a knight . Abe claims that Rex and Marge are not the same . Bart claims that Ted would tell you that Bill is a knight . Bill tells you 
+that it is false that Bart is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Rex , Mel , Alice , Bozo , Dave , Carl , Bill and Peggy . Rex says that 
+it is false that Mel is a knave . Mel tells you that Peggy and Rex are both knights . Alice says that Rex is a knight and Mel is a knave . Bozo claims that both Bill is a knight and Alice is a knave . Dave claims that only 
+a knave would say that Mel is a knave . Carl says that both Dave is a knight and Rex is a knave . Bill says that he knows that Peggy is a knave and that Alice is a knight . Peggy tells you that she and Alice are both knights . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Sue , Bill , Mel , Betty , Sally , Alice , Marge and Bozo . Sue claims that 
+Marge and Betty are different . Bill claims that at least one of the following is true : that he is a knight or that Sue is a knight . Mel says that only a knave would say that Bozo is a knave . Betty tells you that Bill is a 
+knight and Sally is a knave . Sally tells you that Sue is a knight or Mel is a knight . Alice tells you that only a knave would say that Bozo is a knave . Marge tells you that Mel and Bozo are both knights or both knaves . 
+Bozo claims that it is not the case that Marge is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Peggy , Mel , Betty , Bozo , Bart , Joe , Sally and Dave . Peggy claims 
+that both Dave is a knight and Bozo is a knave . Mel claims that Joe could say that Peggy is a knight . Betty tells you that Dave could claim that she is a knave . Bozo says that either Peggy is a knave or Joe is a knave . 
+Bart tells you that only a knave would say that Joe is a knave . Joe tells you that neither Betty nor Dave are knights . Sally claims that Dave would tell you that Mel is a knight . Dave tells you that it is false 
+that Sally is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Dave , Bob , Ted , Sue , Alice , Peggy , Joe and Bozo . Dave tells you 
+that both Bob is a knave and Sue is a knight . Bob tells you that neither Ted nor Joe are knights . Ted says that Bob is a knight or Dave is a knave. Sue tells you that Bozo is a knave . Alice says that Dave is a knave . 
+Peggy tells you that Dave could say that she is a knave . Joe says that Bozo could say that Ted is a knight . Bozo tells you that Peggy could say that Sue is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Peggy , Sue , Carl , Homer , Marge , Betty , Rex and Dave . Peggy says that 
+neither Carl nor Dave are knaves . Sue says that she knows that Betty is a knight and that Rex is a knave . Carl says that Peggy and Rex are both knights or both knaves . Homer says that at least one of the following is 
+true : that Dave is a knave or that Betty is a knave . Marge claims that Rex and Sue are both knights . Betty claims that it is not the case that Sue is a knave . Rex says that Peggy could say that Homer is a knave . 
+Dave claims that Betty and Rex are not the same . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Rex , Bart , Marge , Bill , Homer , Joe , Sue and Ted . Rex claims that 
+Marge and Bart are the same . Bart tells you that only a knave would say that Bill is a knave . Marge tells you that she knows that Ted is a knave and that Homer is a knight . Bill tells you that Marge would tell you that 
+Bart is a knave . Homer tells you that Sue and Bart are not the same . Joe says that Marge and Ted are different . Sue tells you that Marge is a knave . Ted tells you that he knows that Bart is a knave and that Bill is a knight . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Bart , Bozo , Abe , Peggy , Joe , Carl , Betty and Marge . Bart claims that 
+he knows that Bozo is a knight and that Peggy is a knave . Bozo tells you that Betty is a knave . Abe claims that Joe and Bart are knaves . Peggy claims that Abe and Carl are knaves . Joe claims that he is a knight and 
+Peggy is a knave . Carl says that Peggy would tell you that Bozo is a knight . Betty claims that Marge is a knave . Marge claims that Abe and she are not the same . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Alice , Carl , Sally , Bozo , Betty , Mel , Rex and Sue . Alice tells you 
+that Rex and she are not the same . Carl claims that both Sue is a knave and Mel is a knight . Sally tells you that Betty would tell you that Rex is a knight . Bozo tells you that Alice would tell you that Betty is a knave . 
+Betty claims that Sue and Alice are not the same . Mel claims that at least one of the following is true : that Bozo is a knight or that Sally is a knave . Rex says that only a knave would say that Sally is a knave . 
+Sue says that Rex is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Carl , Peggy , Rex , Ted , Bob , Abe , Bill and Alice . Carl says that 
+Rex and Peggy are different . Peggy tells you that Rex and Abe are knights . Rex claims that Abe is a knave . Ted claims that Abe and Peggy are knaves . Bob tells you that Abe is a knave or Bill is a knight . Abe claims that 
+Rex would tell you that Bob is a knave . Bill says that Alice could say that Ted is a knight . Alice claims that Peggy could say that Rex is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Ted , Marge , Alice , Homer , Bill , Betty , Rex and Bart . Ted tells you 
+that Homer and Rex are not the same . Marge tells you that only a knave would say that Ted is a knave . Alice says that Homer would tell you that Rex is a knight . Homer says that Bart is a knave . Bill tells you 
+that Homer is a knave . Betty says that Rex is a knave . Rex tells you that Bill would tell you that Bart is a knave . Bart tells you that Bill and Homer are the same . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Rex , Mel , Betty , Homer , Carl , Dave , Bill and Peggy . Rex tells you 
+that Betty could say that Homer is a knave . Mel tells you that Dave is a knave and Carl is a knight . Betty says that Homer is a knave . Homer claims that Bill and Peggy are knights . Carl says that Betty is a knave 
+or Dave is a knight . Dave claims that neither Carl nor Bill are knaves . Bill says that it is false that Peggy is a knave . Peggy claims that Carl is a knave and Dave is a knight . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Ted , Marge , Joe , Carl , Bill , Dave , Sally and Alice . Ted claims that 
+Dave is a knave . Marge says that Dave is a knave or Sally is a knight . Joe tells you that Ted and Carl are both knights or both knaves . Carl claims that Bill and Sally are knaves . Bill tells you that Marge would tell you 
+that he is a knight . Dave tells you that Alice is a knight or Joe is a knight . Sally tells you that Alice would tell you that Ted is a knight . Alice tells you that it is false that Bill is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Marge , Mel , Bozo , Sally , Bill , Sue , Betty and Peggy . Marge says that 
+at least one of the following is true : that Betty is a knight or that Mel is a knave . Mel says that either Bozo is a knight or Bill is a knave . Bozo claims that Marge would tell you that Peggy is a knight . Sally claims that 
+at least one of the following is true : that Mel is a knave or that Betty is a knave . Bill claims that Bozo could say that Sally is a knave . Sue claims that Bill is a knave . Betty says that Sue and Marge are knights . 
+Peggy tells you that Betty is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Mel , Carl , Bob , Dave , Alice , Sally , Joe and Betty . Mel tells you 
+that Alice could claim that Sally is a knight . Carl claims that Dave and Betty are the same . Bob says that Betty and Mel are knaves . Dave says that Carl could claim that Mel is a knight . Alice claims that both Joe is a 
+knave and Carl is a knight . Sally claims that only a knave would say that Bob is a knave . Joe tells you that Carl is a knave . Betty tells you that Bob and Sally are both knights or both knaves . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Sue , Carl , Homer , Dave , Bill , Ted , Marge and Bob . Sue tells you 
+that both Homer is a knave and Marge is a knight . Carl claims that Ted is a knave . Homer tells you that Sue is a knight or Dave is a knave . Dave tells you that neither Bob nor Marge are knights . Bill tells you that 
+it is false that Marge is a knave . Ted says that Carl and Bob are both knights or both knaves . Marge claims that Sue and Bob are both knights . Bob claims that Carl could claim that Homer is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Homer , Alice , Joe , Sally , Rex , Bill , Abe and Peggy . Homer says 
+that Bill is a knight and Sally is a knave . Alice tells you that it is false that Abe is a knave . Joe says that at least one of the following is true : that Sally is a knave or that Abe is a knight . Sally says 
+that Joe and Rex are knights . Rex claims that neither Peggy nor Abe are knights . Bill tells you that Joe is a knight or he is a knight . Abe says that either Sally is a knave or Bill is a knight . Peggy tells you 
+that Sally is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Betty , Bob , Bill , Carl , Joe , Marge , Alice and Sue . Betty claims 
+that Bob is a knave . Bob tells you that Sue and Carl are different . Bill tells you that Sue is a knave . Carl tells you that Bob is a knight or Joe is a knight . Joe tells you that Marge could say that Bill is a knave . 
+Marge claims that both Carl is a knave and Bill is a knight . Alice says that it is false that Carl is a knave . Sue says that Joe and Alice are knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Bob , Joe , Mel , Marge , Bozo , Abe , Ted and Alice . Bob tells you that 
+both Abe is a knight and Ted is a knave . Joe tells you that Alice is a knight or Marge is a knight . Mel tells you that Abe is a knight and Marge is a knave . Marge claims that only a knave would say that Bozo is a knave . 
+Bozo says that it is not the case that Abe is a knave . Abe claims that he is a knight and Bozo is a knave . Ted claims that Bozo would tell you that Abe is a knight . Alice says that either Ted is a knave or Bozo is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Joe , Sue , Bart , Dave , Sally , Ted , Betty and Carl . Joe says that 
+Ted is a knave or he is a knight . Sue says that at least one of the following is true : that Dave is a knave or that Ted is a knave . Bart claims that Carl and Dave are knights . Dave says that Sally would tell you that he 
+is a knight . Sally says that it is false that Carl is a knave . Ted says that at least one of the following is true : that Betty is a knave or that Bart is a knight . Betty tells you that either Bart is a knave 
+or Sally is a knave . Carl says that Joe is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Carl , Bill , Bob , Betty , Marge , Homer , Alice and Joe . Carl claims 
+that at least one of the following is true : that Alice is a knave or that Betty is a knight . Bill claims that he knows that Homer is a knave and that Betty is a knight . Bob tells you that Betty and Bill are both knights . 
+Betty says that either Homer is a knight or Bob is a knight . Marge says that of Bill and Joe , exactly one is a knight . Homer tells you that Marge is a knight or Betty is a knave . Alice tells you that Betty would tell you 
+that Marge is a knight . Joe claims that Alice could claim that he is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Bill , Joe , Peggy , Alice , Dave , Abe , Ted and Mel . Bill says that 
+neither Mel nor Abe are knaves . Joe tells you that it is false that Dave is a knave . Peggy says that she knows that Mel is a knave and that Joe is a knight . Alice says that Ted and Mel are both knights or both knaves . 
+Dave tells you that either Mel is a knave or Abe is a knight . Abe says that at least one of the following is true : that Bill is a knight or that Ted is a knight . Ted says that Dave would tell you that Joe is a knave . 
+Mel claims that Peggy could say that Abe is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Peggy , Bart , Abe , Sally , Joe , Dave , Bill and Betty . Peggy tells 
+you that Bart is a knave . Bart tells you that only a knave would say that Betty is a knave . Abe says that he is a knight or Peggy is a knight . Sally claims that Bart and Bill are knaves . Joe says that Betty is a knave . 
+Dave tells you that only a knave would say that Betty is a knave . Bill claims that Bart and Abe are both knights or both knaves . Betty says that Bill is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Alice , Abe , Mel , Bart , Bill , Dave , Joe and Sally . Alice claims 
+that Mel and Bart are both knights or both knaves . Abe tells you that it is not the case that Bart is a knave . Mel claims that only a knave would say that Sally is a knave . Bart says that Dave could claim that Sally is 
+a knave . Bill tells you that neither Dave nor Alice are knights . Dave tells you that neither Joe nor Mel are knaves . Joe tells you that Sally and he are knights . Sally claims that Mel would tell you that she is a knave . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Joe , Carl , Bozo , Marge , Bart , Mel , Bob and Ted . Joe says that 
+Ted could claim that Carl is a knight . Carl says that Bart and Joe are the same . Bozo claims that Marge and Bob are not the same . Marge tells you that Bob and Joe are both knights . Bart tells you that Carl is a knight 
+or he is a knight . Mel tells you that it is not the case that Ted is a knave . Bob says that it is not the case that Joe is a knave . Ted tells you that Bob is a knave and Bozo is a knight . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Homer , Bill , Ted , Abe , Bob , Peggy , Dave and Carl . Homer tells you 
+that only a knave would say that Carl is a knave . Bill says that Carl could say that Homer is a knave . Ted claims that he knows that Homer is a knight and that Bill is a knave . Abe tells you that Bob is a knave . 
+Bob tells you that Peggy and Dave are both knights or both knaves . Peggy claims that Bill and Dave are both knights or both knaves . Dave claims that only a knave would say that Abe is a knave . Carl claims 
+that Abe and Bob are both knights or both knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Bart , Marge , Homer , Carl , Abe , Dave , Joe and Sue . Bart claims that 
+Sue and Carl are the same . Marge tells you that Carl is a knave or Dave is a knave . Homer tells you that only a knave would say that Joe is a knave . Carl tells you that both Joe is a knight and Homer is a knave . 
+Abe tells you that Joe is a knave . Dave tells you that at least one of the following is true : that Homer is a knight or that Joe is a knave . Joe says that of he and Homer , exactly one is a knight . 
+Sue claims that both Marge is a knight and Dave is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Rex , Dave , Carl , Homer , Ted , Betty , Abe and Bob . Rex says that 
+Betty is a knave . Dave says that it is not the case that Betty is a knave . Carl says that Bob is a knave . Homer tells you that it is false that Betty is a knave . Ted tells you that Carl and Abe are knaves . Betty says that 
+Abe is a knave . Abe tells you that it is false that Carl is a knave . Bob says that Carl could say that Dave is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Dave , Bill , Sally , Alice , Bart , Rex , Bob and Carl . Dave claims that 
+it is not the case that Bob is a knave . Bill claims that at least one of the following is true : that Carl is a knight or that Alice is a knight . Sally tells you that at least one of the following is true : that Alice is a 
+knave or that Bill is a knight . Alice tells you that at least one of the following is true : that Bob is a knave or that Sally is a knave . Bart tells you that Alice is a knave or Sally is a knight . Rex claims that 
+Alice could say that Bill is a knave . Bob says that Sally could claim that Bart is a knight . Carl claims that only a knave would say that Bart is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Alice , Rex , Betty , Carl , Ted , Marge , Bart and Mel . Alice says that 
+Carl and she are different . Rex claims that Bart and he are both knights or both knaves . Betty tells you that it is false that Ted is a knave . Carl claims that Alice and Rex are both knights or both knaves . Ted claims 
+that Rex is a knave . Marge tells you that Rex and Alice are different . Bart claims that Mel is a knave . Mel tells you that Marge and Rex are not the same . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet eight inhabitants : Mel , Betty , Dave , Carl , Bill , Bob , Joe and Peggy . Mel says that 
+neither Carl nor Dave are knights . Betty says that Joe and she are both knights . Dave says that Peggy is a knave . Carl tells you that Joe could claim that Peggy is a knight . Bill says that Bob is a knave . Bob says that 
+neither Mel nor Peggy are knights . Joe claims that only a knave would say that Carl is a knave . Peggy says that Carl is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Bob , Sally , Marge , Bart , Alice , Joe , Dave , Sue and Mel . Bob claims 
+that it is false that Dave is a knave . Sally tells you that Marge is a knave and Sue is a knight . Marge claims that Bob is a knave . Bart claims that Alice could claim that he is a knight . Alice says that only a knave would 
+say that Dave is a knave . Joe says that it is not the case that Bart is a knave . Dave claims that Mel and Joe are both knights or both knaves . Sue tells you that Alice is a knave . Mel claims that neither 
+Bob nor Sally are knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Bob , Bill , Bart , Betty , Ted , Homer , Dave , Rex and Sue . Bob tells 
+you that of Sue and Homer , exactly one is a knight . Bill says that he could say that Ted is a knight . Bart says that Bob could say that he is a knight . Betty tells you that only a knave would say that Sue is a knave . 
+Ted claims that he and Betty are knights . Homer claims that Dave is not a knave . Dave says that at least one of the following is true : that he is a knight or that Bart is a knight . Rex says that at least one of the 
+following is true : that Ted is a knight or that Betty is a knight . Sue says that Bill is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Dave , Ted , Sally , Mel , Bart , Sue , Joe , Bill and Bob . Dave says 
+that at least one of the following is true : that he is a knight or that Joe is a knave . Ted claims that Joe is a knave . Sally says that neither Bob nor Joe are knights . Mel tells you that Bob is a knave . Bart claims that 
+Joe could claim that Ted is a knight . Sue says that Joe is a knight and Dave is a knave . Joe tells you that only a knave would say that Bill is a knave . Bill says that he knows that Dave is a knight and that Mel is a knave . 
+Bob says that Bill and Bart are both knights . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Sally , Alice , Dave , Rex , Bart , Betty , Bozo , Marge and Carl . 
+Sally tells you that Bozo is a knave . Alice says that Dave and Carl are both knights or both knaves . Dave claims that he knows that Sally is a knight and that Bart is a knave . Rex tells you that it is not the case that 
+Bart is a knave . Bart claims that Marge is a knave . Betty says that of Rex and Bozo , exactly one is a knight . Bozo says that both Betty is a knave and Carl is a knight . Marge says that Betty and Carl are both 
+knights or both knaves . Carl says that it is false that Betty is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Dave , Bob , Mel , Marge , Alice , Homer , Betty , Carl and Sally . 
+Dave says that Carl is a knave . Bob tells you that neither Marge nor Mel are knaves . Mel says that he knows that Marge is a knave and that Sally is a knight . Marge says that Homer is a knave . Alice tells you that both 
+Bob is a knight and Marge is a knave . Homer says that Carl is a knave or Dave is a knight . Betty tells you that Dave is a knave and Carl is a knight . Carl tells you that Sally and Bob are knights . Sally tells you that 
+Alice could say that Homer is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Carl , Betty , Ted , Dave , Marge , Alice , Rex , Bob and Sally . 
+Carl claims that Ted would tell you that Alice is a knave . Betty says that at least one of the following is true : that Ted is a knave or that Dave is a knave . Ted says that Rex could say that Betty is a knave . 
+Dave claims that Sally and Alice are different . Marge says that Rex is a knave . Alice claims that Carl is a knave or Sally is a knight . Rex says that he knows that he is a knight and that Bob is a knave . 
+Bob says that he and Rex are both knights or both knaves . Sally tells you that Bob is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Bill , Homer , Joe , Sue , Bob , Betty , Ted , Alice and Mel . 
+Bill tells you that Homer and Joe are knights . Homer claims that he knows that Bill is a knight and that Joe is a knave . Joe says that at least one of the following is true : that Sue is a knave or that Bill is a knight . 
+Sue tells you that Mel and Betty are both knights or both knaves . Bob says that either Mel is a knave or Alice is a knight . Betty says that Ted is a knave . Ted tells you that it is false that Mel is a knave . 
+Alice claims that both she is a knight and Bob is a knave . Mel claims that either Homer is a knave or Joe is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Bart , Marge , Bozo , Abe , Ted , Carl , Alice , Bill and Mel . Bart claims 
+that Marge is a knight or Bill is a knight . Marge says that either Alice is a knave or Bill is a knight . Bozo says that both Carl is a knave and Bill is a knight . Abe says that Marge could say that Mel is a knight . 
+Ted claims that he could claim that Alice is a knave . Carl tells you that Alice is a knight or Ted is a knave . Alice tells you that Carl and Marge are both knights or both knaves . Bill claims that Alice is a knight 
+or Ted is a knave . Mel tells you that neither Alice nor Bill are knaves . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Dave , Sally , Carl , Joe , Mel , Alice , Bill , Bob and Betty . Dave claims 
+that at least one of the following is true : that Carl is a knight or that Alice is a knight . Sally tells you that Mel could claim that Joe is a knight . Carl tells you that Sally could claim that Betty is a knight . 
+Joe claims that Betty would tell you that Carl is a knight . Mel tells you that Joe is a knave . Alice tells you that Sally is a knave . Bill says that Betty could claim that Sally is a knave . Bob says that Betty could 
+say that Carl is a knave . Betty tells you that only a knave would say that Joe is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Bob , Betty , Carl , Joe , Sally , Alice , Dave , Ted and Marge . 
+Bob says that Marge and Joe are both knights or both knaves . Betty claims that Bob could say that Sally is a knight . Carl tells you that he knows that Joe is a knave and that Bob is a knight . Joe tells you that Alice is 
+a knight or Marge is a knave . Sally claims that of Marge and Bob , exactly one is a knight . Alice claims that Ted is a knave . Dave says that only a knave would say that Joe is a knave . Ted claims that it is not the case 
+that Carl is a knave . Marge tells you that at least one of the following is true : that Dave is a knave or that Joe is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Marge , Dave , Carl , Bill , Bob , Betty , Bart , Bozo and Joe . 
+Marge claims that Dave and Joe are different . Dave says that Bill and Carl are knaves . Carl tells you that of Betty and Bart , exactly one is a knight . Bill claims that only a knave would say that Bob is a knave . 
+Bob tells you that Dave is a knave or Marge is a knave . Betty says that Carl is a knave or Joe is a knave . Bart tells you that he is a knight or Dave is a knave . Bozo tells you that both Bob is a knight and Betty is a knave . 
+Joe claims that he knows that Dave is a knight and that Carl is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Mel , Bob , Sue , Bill , Alice , Bart , Ted , Abe and Rex . Mel tells you 
+that only a knave would say that Alice is a knave . Bob claims that neither Alice nor Rex are knights . Sue tells you that Alice could claim that Bill is a knight . Bill claims that Mel could say that Bart is a knave . 
+Alice tells you that she knows that Rex is a knight and that Abe is a knave . Bart says that either Bob is a knight or Ted is a knave . Ted claims that neither Bill nor Bart are knights . Abe tells you that Sue is a knave . 
+Rex says that Alice is a knight or Ted is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Bart , Bill , Homer , Abe , Rex , Betty , Mel , Dave and Carl . 
+Bart claims that Betty is a knave . Bill claims that it is not the case that Betty is a knave . Homer claims that Carl is a knave . Abe says that Betty is a knave . Rex claims that at least one of the following 
+is true : that Betty is a knave or that Mel is a knight . Betty claims that Homer is a knave . Mel claims that either Carl is a knave or Betty is a knight . Dave says that either Betty is a knave or Rex is a knight . 
+Carl says that he would tell you that Abe is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Bart , Dave , Peggy , Bill , Ted , Betty , Sally , Bozo and Joe . 
+Bart claims that he and Bill are different . Dave claims that either Joe is a knight or Sally is a knave . Peggy tells you that only a knave would say that Dave is a knave . Bill says that at least one of the following 
+is true : that he is a knight or that Dave is a knave . Ted claims that it is not the case that Sally is a knave . Betty says that at least one of the following is true : that Bozo is a knave or that Joe is a knight . 
+Sally claims that Bart could say that Ted is a knight . Bozo says that at least one of the following is true : that Dave is a knight or that Bart is a knight . Joe says that he could claim that Sally is a knight . 
+Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Dave , Peggy , Joe , Sue , Rex , Mel , Homer , Ted and Carl . 
+Dave says that Sue is a knight or Mel is a knave . Peggy tells you that at least one of the following is true : that Mel is a knight or that Dave is a knight . Joe tells you that at least one of the following 
+is true : that Mel is a knight or that Ted is a knave . Sue says that neither she nor Carl are knaves . Rex says that Ted and Carl are not the same . Mel claims that Carl is a knight or Homer is a knave . 
+Homer tells you that Mel and Rex are both knights or both knaves . Ted tells you that Peggy and Homer are knaves . Carl claims that Sue is a knave or Ted is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Bozo , Abe , Betty , Peggy , Bill , Joe , Bart , Alice and Carl . 
+Bozo tells you that Alice could claim that Bill is a knight . Abe says that Peggy could claim that Betty is a knight . Betty says that either Alice is a knave or Bozo is a knight . Peggy claims that it is false that 
+Betty is a knave . Bill claims that Alice is a knave . Joe says that it is not the case that Alice is a knave . Bart claims that Betty could claim that Alice is a knight . Alice tells you that at least one of the following 
+is true : that Carl is a knave or that Abe is a knave . Carl tells you that Alice would tell you that Joe is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Betty , Marge , Sue , Bozo , Alice , Bob , Mel , Rex and Peggy . 
+Betty says that Mel is a knight and Rex is a knave . Marge says that either Bozo is a knight or Rex is a knight . Sue tells you that she and Alice are knights . Bozo tells you that it is not the case that Sue is a knave . 
+Alice tells you that she could say that Bozo is a knight . Bob tells you that Betty could say that Peggy is a knight . Mel tells you that at least one of the following is true : that Alice is a knight or that Betty is a knave . 
+Rex says that it is false that Bob is a knave . Peggy says that Bob is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Sue , Dave , Homer , Bob , Ted , Bart , Joe , Betty and Peggy . 
+Sue claims that Dave is a knave . Dave claims that Bob and Peggy are the same . Homer tells you that either Betty is a knight or Bart is a knight . Bob says that only a knave would say that Bart is a knave . Ted tells you 
+that both Homer is a knight and Bart is a knave . Bart says that he would tell you that Dave is a knave . Joe tells you that Peggy and Betty are not the same . Betty tells you that Bart is a knave . 
+Peggy claims that at least one of the following is true : that Homer is a knave or that Dave is a knight . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Dave , Homer , Carl , Sue , Rex , Mel , Alice , Bart and Joe . 
+Dave says that neither Rex nor Sue are knights . Homer tells you that Mel is a knave and he is a knight . Carl says that neither Bart nor Joe are knaves . Sue tells you that it is false that Carl is a knave . 
+Rex claims that Bart and he are the same . Mel tells you that Sue and Carl are both knights or both knaves . Alice claims that Sue is a knave . Bart tells you that of Sue and Dave , exactly one is a knight . 
+Joe claims that either Bart is a knave or Mel is a knave . Can you determine who is a knight and who is a knave ?
+
+On the island where each inhabitant is either a knave or a knight , knights always tell the truth while knaves always lie . You meet nine inhabitants : Mel , Bart , Sue , Betty , Rex , Joe , Sally , Alice and Homer . 
+Mel claims that only a knave would say that Sally is a knave . Bart claims that Rex is a knave . Sue says that Mel and Homer are knaves . Betty tells you that she knows that she is a knight and that Sally is a knave . 
+Rex says that Betty and he are both knights . Joe tells you that at least one of the following is true : that Sally is a knight or that Sue is a knight . Sally says that it is false that Betty is a knave . 
+Alice says that it is not the case that Sue is a knave . Homer tells you that Betty is a knave or Joe is a knave . Can you determine who is a knight and who is a knave ?

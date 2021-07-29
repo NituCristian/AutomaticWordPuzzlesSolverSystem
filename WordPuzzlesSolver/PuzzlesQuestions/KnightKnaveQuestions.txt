@@ -1,0 +1,599 @@
+Peggy is a knight . Peggy is a knave . Mel is a knave .
+
+Joe is a knight . Joe is a knave . Peggy is a knave .
+
+Sue is a knight . Alice lies .
+
+Sally is a knave . Alice is a knight .
+
+Homer is a knave . Sue is a knave . 
+
+Marge is a knight . Homer and Marge are different . Homer and Marge are the same . Marge and Homer are knights .
+
+Joe is a knave . Alice is a knave .
+
+Sue is a knave . Ted is a knave .
+
+Alice is a knave . Bart is a knight .
+
+Bob is a knave . Betty is a knave .
+
+Bart is a knight . Betty is a knight .
+
+Bart is a knave . Mel is a knave .
+
+Betty is a knight . Peggy is a knight .
+
+Bob is a knave . Mel is a knight .
+
+Alice is a knave . Bob is a knave .
+
+Alice is a knave . Ted is a knave .
+
+Sue is a knight . Dave is a knave .
+
+Bill is a knave . Dave is a knight .
+
+Marge is a knight . Sue is a knight .
+
+Bob is a knight . Ted is a knight .
+
+Peggy is a knight . Bob is a knight .
+
+Rex is a knave . Marge is a knave .
+
+Rex is a knave . Marge is a knight .
+
+Peggy is a knight . Carl is a knave .
+
+Mel is a knave . Homer is a knave .
+
+Marge is a knight . Ted is a knave .
+
+Abe is a knave . Bozo is a knave .
+
+Rex is a knight . Abe is a knight .
+
+Sue is a knave . Joe is a knave .
+
+Marge is a knight . Homer is a knight .
+
+Sally is a knight . Ted is a knight .
+
+Bart is a knave . Sally is a knight .
+
+Bob is a knight . Sally is a knight .
+
+Alice is a knave . Joe is a knave .
+
+Peggy is a knight . Alice is a knight .
+
+Alice is a knave . Joe is a knight .
+
+Rex is a knight . Marge is a knight .
+
+Marge is a knight . Betty is a knight .
+
+Marge is a knave . Joe is a knave .
+
+Carl is a knave . Bill is a knight .
+
+Homer is a knave . Abe is a knight .
+
+Peggy is a knave . Joe is a knight .
+
+Bob is a knave . Bill is a knight .
+
+Abe is a knave . Betty is a knight .
+
+Alice is a knave . Rex is a knight .
+
+Bob is a knave . Sue is a knave .
+
+Peggy and Joe are different . Mel is a knight .
+
+Alice is a knave . Marge is a knave . Ted is a knight .
+
+Bozo and Mel are the same . Sue is a knight .
+
+Alice is a knight . Betty is a knight . Rex is a knight .
+
+Marge and Mel are knights . Bob is a knight .
+
+Joe is a knight . Peggy is a knight . Mel is a knight .
+
+Betty and Bob are knaves . Ted is a knave .
+
+Rex is a knight . Joe is a knight . Sally is a knave .
+
+Alice is a knight . Carl is a knave . Homer is a knave .
+
+Bozo and Sally are the same . Mel and Sally are different .
+
+Bozo is a knight . Carl is a knave .
+
+Sally is a knave . Homer is a knave .
+
+Bozo is a knave . Mel is a knight .
+
+Abe is a knight . Joe is a knave .
+
+Abe is a knave . Betty is a knight .
+
+Bart is a knave . Rex is a knave . Dave is a knight .
+
+Alice is a knave . Dave is a knight .
+
+Betty , Sally and Carl are knights .
+
+Bart is a knave . Rex is a knight .
+
+Alice is a knave . Homer is a knave . Ted is a knight .
+
+Bill is a knight . Bart is a knight .
+
+Bill is a knight . Bill and Dave are different .
+
+Abe and Peggy are knaves .
+
+Peggy is a knave . Bob is a knight . Sally is a knight .
+
+Joe is a knave . Mel is a knight . Peggy is a knight .
+
+Bill is a knight . Dave is a knave . Ted is a knave .
+
+Alice and Betty are different . Alice and Carl are the same .
+
+Abe is a knave . Betty is a knave . Carl is a knave .
+
+Bob is a knight . Bob and Sue are different .
+
+Alice is a knave .
+
+Alice is a knave . Joe is a knave .
+
+Betty is a knight . Sue and Ted are knaves . 
+
+Peggy is a knave . Carl is a knight .
+
+Dave and Rex are knaves . Dave and Sue are different .
+
+Alice is a knave . Ted is a knight .
+
+Carl is a knave . Rex is a knight . Sue is a knight .
+
+Joe is a knight . Bob is a knave . Peggy is a knave .
+
+Carl is a knave . Bozo and Joe are knights .
+
+Joe is a knave . Peggy is a knave . Sue is a knight .
+
+Alice is a knave . Betty is a knave . Marge is a knight .
+
+Bob is a knave . Peggy is a knave . Mel is a knight .
+
+Bart is a knave . Dave is a knave . Rex is a knave . Sue is a knave .
+
+Bart is a knave . Dave is a knave . Rex is a knight . Sue is a knight .
+
+Dave and Rex are knights . Marge and Sue are knaves .
+
+Carl and Peggy are different . Sally is a knight . Carl and Ted are the same .
+
+Bob is a knight . Sally is a knight . Dave is a knave . Peggy is a knave .
+
+Ted and Carl are knights . Alice and Carl are knights . Rex and Ted are the same . Rex is a knave .
+
+Rex is a knave . Carl is a knight . Peggy is a knight .
+
+Alice is a knave . Bill is a knave . Mel is a knave .
+
+Homer is a knight . Sue is a knight . Ted is a knave . Ted and Alice are the same .
+
+Alice and Joe are the same . Alice is a knight . Alice and Mel are different .
+
+Bart is a knight . Betty is a knight .
+
+Abe is a knight . Bart is a knave . Homer is a knave . Joe is a knight .
+
+Alice and Bob are knaves . Dave and Sally are knaves .
+
+Bob is a knight . Mel is a knight . Sue is a knave . Ted is a knight .
+
+Betty is a knave . Carl is a knave . Homer is a knight . Homer and Carl are the same .
+
+Betty and Bob are knights . Bill is a knave .
+
+Abe is a knave . Abe and Bob are different . Mel is a knight . Bart and Mel are different .
+
+Bart is a knave . Bozo is a knave . Marge is a knave .
+
+Alice is a knave . Betty is a knave . Homer is a knave . Rex is a knave .
+
+Carl is a knave . Bart and Sally are the same .
+
+Alice is a knight . Ted is a knight . Peggy and Ted are different .
+
+Betty is a knight . Sue is a knight .
+
+Mel is a knave . Carl is a knave . Sue is a knave . Ted is a knave .
+
+Abe is a knight . Abe and Marge are different . Ted is a knight . Ted and Betty are the same .
+
+Mel is a knight . Bill is a knave . Peggy is a knave .
+
+Alice is a knight . Bob is a knave . Homer is a knave . Rex is a knight .
+
+Betty and Bart are knaves . Joe is a knave . Peggy and Bart are the same .
+
+Alice is a knave . Alice and Sue are different .
+
+Alice is a knave . Bart is a knight . Betty is a knight . Marge is a knave .
+
+Betty is a knave . Carl is a knave . Marge is a knight .
+
+Bill is a knight . Dave is a knave . Bill and Peggy are different .
+
+Joe is a knight . Rex is a knight . Sue is a knave .
+
+Betty is a knave . Betty and Rex are the same .
+
+Betty and Dave are knaves . Carl and Sally are knights .
+
+Dave and Mel are knights . Bart and Dave are the same .
+
+Abe is a knight . Bob is a knave . Abe and Dave are different .
+
+Alice , Bob , Dave and Sally are knaves .
+
+Homer is a knight . Rex is a knave . Mel is a knight .
+
+Betty and Dave are knights . Dave and Peggy are different . Ted is a knight .
+
+Alice and Bill are knaves . Dave is a knave . Joe is a knave . Dave and Alice are different .
+
+Alice is a knave . Bozo is a knave . Dave is a knight . Marge is a knave . Sue is a knave .
+
+Bozo and Carl are knaves . Betty , Joe and Peggy are knights .
+
+Alice is a knave . Bozo is a knight . Marge is a knight . Joe and Marge are different .
+
+Bart is a knave . Alice is a knight . Dave is a knave .
+
+Bart is a knight . Bill is a knave . Bill and Sally are different .
+
+Alice is a knight . Bart is a knight . Bill and Marge are knights . Alice and Rex are the same .
+
+Alice is a knave . Betty is a knight . Betty and Homer are different . Bozo is a knight .
+
+Bob is a knight . Bozo is a knave . Dave is a knave . Joe and Sue are the same .
+
+Marge is a knave . Sally is a knight . Bart is a knight .
+
+Betty is a knave . Carl is a knight . Carl and Homer are different . Marge and Betty are knaves .
+
+Alice is a knight . Betty is a knave . Betty and Mel are different .
+
+Dave , Mel and Sue are knaves . Mel and Homer are different . Ted , Sue and Mel are knaves . Ted is a knave .
+
+Homer is a knight . Rex is a knight . Joe is a knave . Joe and Peggy are the same .
+
+Alice , Bart and Carl are knaves . Bart and Joe are knaves . Joe and Rex are different . Rex is a knave .
+
+Dave is a knave . Homer is a knight . Abe is a knight . Betty is a knight .
+
+Dave is a knave . Betty and Dave are different . Marge and Sue are knaves .
+
+Alice is a knight . Homer is a knave . Betty and Homer are different . Betty and Rex are the same .
+
+Bozo is a knight . Carl is a knight . Bart and Carl are different . Marge is a knave .
+
+Abe is a knave . Betty is a knight . Marge and Ted are different . Marge and Peggy are knaves .
+
+Bart , Bill and Rex are knaves . Joe and Sue are knights .
+
+Betty is a knave . Homer is a knave . Joe is a knight . Joe and Mel are different .
+
+Alice , Betty , Bill , Dave and Ted are knaves .
+
+Alice is a knight . Ted is a knight . Alice and Peggy are different . Joe is a knave .
+
+Alice and Bozo are knights . Mel is a knave . Rex and Bozo are different .
+
+Alice is a knave . Bob is a knight . Carl is a knave . Mel is a knave .
+
+Mel is a knave . Sue is a knight . Bill , Marge and Ted are knaves .
+
+Abe is a knave . Bob is a knave . Bozo and Marge are different .
+
+Bart is a knight . Dave and Joe are knaves . Carl and Peggy are knights .
+
+Betty is a knave . Bill and Bob are different . Carl is a knight . Mel is a knight .
+
+Abe is a knight . Bart and Betty are different .
+
+Betty and Carl are knights . Bill , Homer and Marge are knaves . Carl and Homer are different .
+
+Bill is a knight . Bob and Homer are different . Homer and Marge are knaves . Carl is a knight .
+
+Alice is a knight . Dave and Homer are different . Joe is a knight . Ted is a knave .
+
+Betty is a knave . Bob is a knight . Carl is a knave . Marge and Bob are different .
+
+Sue is a knave . Bob is a knight . Bozo is a knight . Marge and Sue are different .
+
+Abe is a knave . Abe and Mel are different . Bart is a knave . Bill and Sally are different .
+
+Mel is a knight . Bozo is a knave . Dave is a knave .
+
+Abe is a knave . Bart is a knave . Bozo and Carl are different .
+
+Bart is a knave . Betty is a knave . Bozo is a knight . Bart and Mel are the same .
+
+Alice is a knight . Betty is a knight . Bob is a knight . Dave is a knight . Joe is a knight . Ted is a knave .
+
+Alice and Betty are knights . Carl , Marge , Peggy and Rex are knaves .
+
+Bob is a knight . Alice is a knave . Dave is a knave . Alice and Rex are the same .
+
+Betty is a knave . Bob is a knight . Joe is a knave . Sally is a knave .
+
+Alice and Homer are knaves . Homer and Rex are different . Joe is a knave . Joe and Sally are different .
+
+Bart is a knight . Dave is a knight . Mel is a knave . Homer and Mel are different .
+
+Abe is a knight . Alice is a knave . Bozo is a knight . Abe and Joe are the same .
+
+Bill is a knave . Bozo is a knave . Carl is a knight . Dave is a knave . Homer is a knight . Sally is a knight .
+
+Bart is a knight . Betty is a knave . Bart and Joe are the same . Sally and Bart are different .
+
+Abe is a knight . Alice is a knight . Bart is a knight . Marge is a knave . Rex is a knave . Sue and Abe are different .
+
+Alice is a knave . Bill is a knight . Rex is a knight . Rex and Ted are the same .
+
+Alice and Carl are knights . Bob and Marge are knaves . Peggy is a knave . Alice and Sally are different .
+
+Alice is a knight . Bart is a knight . Betty and Carl are the same . Carl and Sally are knaves .
+
+Abe is a knight . Alice is a knave . Peggy is a knave . Ted is a knave .
+
+Betty is a knave . Bozo is a knight . Homer is a knave . Marge and Homer are different .
+
+Abe is a knight . Alice is a knave . Bart and Sue are knights . Bozo and Sally are knaves .
+
+Betty is a knave . Bob is a knight . Dave is a knight .
+
+Alice and Dave are knaves . Homer is a knight . Mel and Rex are the same . Rex is a knave .
+
+Abe is a knight . Bart is a knight . Betty is a knave . Joe is a knave .
+
+Alice is a knight . Bob is a knave . Mel is a knave . Bob and Mel are different .
+
+Abe is a knave . Bozo is a knight . Dave is a knight . Bozo and Dave are the same .
+
+Abe is a knave . Alice is a knave . Mel is a knight . Dave and Mel are different .
+
+Abe , Betty and Mel are knights . Mel and Sue are the same . Alice and Bill are knaves . Alice and Abe are different .
+
+Abe is a knight . Betty is a knight . Bozo is a knight . Carl is a knight . Peggy is a knight . Ted is a knave .
+
+Abe and Betty are knaves . Joe and Rex are knights . Sally and Rex are the same . Sally and Carl are different .
+
+Bart is a knave . Bill is a knight . Homer is a knave . Mel is a knight .
+
+Joe is a knight . Alice and Joe are different . Mel and Sally are knights .
+
+Alice is a knave . Carl is a knave . Homer and Marge are knights .
+
+Betty is a knave . Rex is a knight . Rex and Sue are knights .
+
+Carl is a knave . Marge and Mel are knaves . Dave and Peggy are different . Ted is a knave .
+
+Bart is a knight . Dave is a knave . Sally is a knight . Ted is a knave .
+
+Abe is a knave . Alice , Bill and Bob are knaves . Bill and Dave are the same . Dave and Sue are different .
+
+Betty and Bill are knights . Betty is a knight . Bill and Carl are knaves . Peggy is a knight .
+
+Abe is a knave . Alice is a knave . Betty is a knight . Bill and Dave are different .
+
+Betty is a knight . Bill is a knave . Dave and Mel are different . Sue is a knight .
+
+Alice is a knave . Bob is a knight  . Marge and Mel are different . Sue is a knight .
+
+Abe is a knight . Alice is a knave . Bozo is a knave . Bozo and Carl are the same .
+
+Alice is a knight . Bart is a knight . Rex is a knave . Sally is a knight .
+
+Alice and Betty are the same . Joe is a knave . Marge and Sally are different . Sue and Alice are the same .
+
+Abe is a knave . Betty is a knave . Bill is a knight . Bob and Sally are different . Ted is a knave .
+
+Alice is a knight . Bart is a knight . Bozo and Joe are different . Marge and Ted are knaves .
+
+Betty , Bozo and Joe are knaves . Mel and Peggy are knights . Mel is a knight . Peggy is a knave .
+
+Alice is a knight . Bob is a knight . Mel and Homer are the same . Ted is a knave .
+
+Alice is a knight . Betty is a knave . Carl and Sue are knights . Mel and Rex are different .
+
+Alice is a knight . Mel is a knight . Sue is a knight . Homer is a knave .
+
+Homer and Joe are the same . Sally is a knight . Homer and Sally are different .
+
+Alice is a knight . Betty is a knight . Bob and Carl are different .
+
+Bart is a knave . Carl is a knave . Betty is a knight . Dave and Sally are different .
+
+Abe is a knight . Bart is a knave . Sue and Joe are knaves . Carl and Dave are knights .
+
+Abe is a knave . Bozo is a knave . Carl and Bozo are different . Dave and Peggy are the same .
+
+Bart is a knave . Bozo and Dave are knights . Mel and Sue are different .
+
+Bart is a knave . Carl is a knight . Joe is a knight . Mel is a knave .
+
+Alice is a knave . Betty is a knight . Bill and Mel are knaves . Bill and Ted are knaves . Marge and Mel are different .
+
+Alice is a knave . Carl is a knight . Carl and Mel are different . Rex is a knave .
+
+Alice is a knave . Bill is a knave . Dave and Mel are the same . Dave is a knight . Peggy and Sally are different .
+
+Bill is a knight . Bob , Joe and Dave are knaves . Peggy is a knave . Bart is a knight .
+
+Abe is a knight . Dave and Homer are knaves . Alice and Joe are different . Peggy is a knave .
+
+Alice is a knight . Bill is a knave . Bob is a knight . Marge is a knave .
+
+Betty is a knight . Carl is a knave . Sally and Ted are different .
+
+Bill is a knave . Bob is a knave . Carl and Dave are knights . Bill and Ted are different .
+
+Carl is a knight . Bob , Marge and Rex are knaves . Bart and Betty are the same .
+
+Abe is a knave . Betty is a knight . Carl and Joe are knaves . Sue is a knight .
+
+Bart is a knave . Betty is a knave . Marge is a knave . Rex and Ted are different .
+
+Bill is a knight . Sally is a knave . Joe is a knave .
+
+Bob is a knave . Bill and Carl are different . Betty and Sally are knights . Bill and Marge are the same .
+
+Carl is a knave . Dave is a knave . Ted is a knight . Mel is a knave .
+
+Peggy is a knave . Rex is a knave . Abe and Bart are different . Bill is a knight .
+
+Betty , Bill and Carl are knights . Alice , Sally and Sue are knaves . Mel is a knight .
+
+Abe and Betty are the same . Carl and Homer are knaves . Marge is a knight . Marge and Ted are different .
+
+Marge is a knight . Bob is a knave . Mel is a knave . Sue is a knave .
+
+Ted is a knight . Marge is a knave . Alice and Bart are the same . Bill is a knight .
+
+Bart is a knight . Betty and Joe are different . Marge and Sally are knaves .
+
+Bart is a knave . Dave is a knave . Joe is a knight .
+
+Bart is a knight . Carl is a knight . Rex is a knave .
+
+Bill is a knight . Homer is a knight . Marge and Peggy are different . Betty is a knave .
+
+Alice is a knave . Bill is a knave . Carl is a knave . Homer is a knight .
+
+Alice is a knight . Bob is a knight . Bozo and Carl are knights . Marge and Bozo are different . Dave , Mel and Ted are knights .
+
+Alice is a knave . Carl is a knight . Dave is a knight . Sally is a knight . Bob is a knave .
+
+Alice and Bill are knaves . Dave , Marge and Peggy are knights . Sally and Bill are different .
+
+Alice is a knight . Bill is a knave . Marge and Mel are different .
+
+Bart is a knight . Bozo is a knave . Mel is a knave . Sally is a knave .
+
+Bozo is a knight . Betty is a knave . Rex is a knave . Alice and Sue are the same .
+
+Alice is a knight . Bill is a knight . Dave is a knave . Sally is a knight .
+
+Abe and Alice are knights . Bart is a knight . Bill and Carl are different .
+
+Carl is a knave . Alice , Bill and Bozo are knaves . Rex and Peggy are the same . Mel and Dave are different .
+
+Alice is a knight . Betty is a knight . Bill is a knight . Bozo is a knight . Marge and Betty are different .
+
+Bart is a knave . Betty is a knight . Peggy and Sally are knaves . Betty and Dave are different .
+
+Alice , Bozo and Joe are knights . Bob and Dave are knaves . Peggy and Sue are the same . Peggy and Ted are different .
+
+Betty is a knave . Carl is a knave . Rex is a knight . Rex and Sue are different .
+
+Bart is a knight . Homer is a knave . Sue is a knight . Ted is a knave .
+
+Abe is a knave . Bart and Betty are different . Carl and Joe are knights . Marge and Peggy are the same .
+
+Alice is a knave . Betty is a knight . Bozo and Carl are different . Rex is a knave . Sally is a knave .
+
+Abe and Alice are knaves . Carl is a knight . Rex is a knight . Ted is a knight .
+
+Alice is a knave . Bart is a knave . Betty is a knight . Bill is a knave .
+
+Bill is a knave . Carl is a knave . Betty and Peggy are different . Mel is a knave .
+
+Marge is a knight . Sally is a knight . Ted is a knave . Alice is a knave .
+
+Betty is a knight . Bozo is a knave . Peggy is a knave . Sally and Sue are different .
+
+Carl is a knight . Joe is a knave . Betty and Bob are different . Bob is a knave .
+
+Bill is a knave . Bob and Carl are knaves . Ted is a knight . Ted and Marge are different .
+
+Abe is a knave . Alice is a knave . Joe is a knight . Peggy is a knight . Sally is a knave .
+
+Alice is a knight . Carl is a knight . Marge and Sue are knights . Bill and Carl are the same .
+
+Abe is a knave . Alice is a knight . Bozo is a knave . Marge and Ted are different .
+
+Carl is a knight . Dave is a knight . Joe is a knave . Sue and Ted are different .
+
+Alice , Betty and Carl are knights . Alice and Carl are the same . Bill and Bob are the same . Marge is a knight .
+
+Alice is a knave . Abe is a knight . Mel is a knight . Joe is a knight . Peggy is a knave .
+
+Bart is a knight . Abe and Betty are different . Joe , Peggy and Bill are knaves .
+
+Alice is a knave . Bill is a knave . Dave is a knave . Joe is a knave . Mel is a knave .
+
+Carl is a knave . Joe is a knight . Mel is a knave . Marge is a knight .
+
+Bill is a knave . Abe is a knight . Bob and Carl are knaves . Abe and Dave are the same . Dave and Ted are different .
+
+Abe and Bart are knights . Carl and Homer are knaves . Abe and Homer are different . Joe is a knave .
+
+Abe is a knight . Carl is a knight . Homer is a knave .
+
+Dave is a knight . Alice and Bart are different . Bill , Bob , Carl and Rex are knights .
+
+Bart is a knight . Betty is a knave . Rex is a knight . Ted is a knave . Mel is a knave .
+
+Bill is a knight . Betty is a knave . Mel and Peggy are knights . Joe is a knave .
+
+Alice is a knight . Bart is a knave . Bob is a knight . Dave is a knight . Joe is a knave . Mel is a knave . Sue is a knave .
+
+Bart and Dave are knaves . Rex , Sue and Ted are knights . Dave and Sue are different . Betty is a knight .
+
+Bart is a knave . Bill is a knave . Mel and Ted are the same . Sue and Dave are different .
+
+Marge is a knight . Sally is a knight . Alice is a knave . Betty is a knave .
+
+Alice , Betty and Bob are knaves . Dave is a knight . Homer and Sally are the same . Mel is a knight .
+
+Alice is a knight . Bob is a knave . Carl is a knight . Ted is a knave .
+
+Alice is a knave . Betty is a knave . Mel is a knight . Mel and Ted are the same . Sue and Joe are different .
+
+Bart is a knight . Alice is a knave .
+
+Alice , Bob and Carl are knights . Betty and Joe are knaves . Sally and Mel are different .
+
+Alice is a knight . Betty is a knight . Bob is a knave . Carl is a knave .
+
+Bart and Betty are knights . Joe , Dave and Carl are knaves . Marge is a knave .
+
+Bill is a knight . Abe is a knight . Alice is a knave . Bob is a knave . Mel is a knave .
+
+Mel is a knight . Betty is a knight . Abe and Bart are knaves . Homer and Mel are different .
+
+Bart , Betty , Bozo and Dave are knights . Bill and Peggy are different . Sally and Ted are knights .
+
+Carl is a knight . Dave is a knave . Homer , Joe and Mel are knights .
+
+Abe is a knight . Bart is a knave . Carl is a knight . Joe is a knave .
+
+Alice is a knight . Bob is a knight . Rex is a knight . Betty is a knave . Peggy is a knave .
+
+Betty and Bob are different . Joe , Peggy and Ted are knaves . Sue is a knight . Sue and Ted are different .
+
+Alice is a knight . Bart is a knight . Rex is a knave . Sue is a knave . Homer is a knave .
+
+Betty is a knave . Bart is a knight . Joe is a knave . Mel is a knave . Homer is a knight .

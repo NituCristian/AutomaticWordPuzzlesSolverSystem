@@ -1,0 +1,5 @@
+Kevin is taller than Diana . Diana is taller than Maria . Who is the shortest ?
+
+Mike is taller than Salman who is shorter than Sanjay . Sam is taller than Kevin but shorter than Salman . Sanjay is shorter than Mike . Who is the tallest ?
+
+There are four dolls Dottie , Lottie , Twinkle and Hannah . Lottie is neither as tall as Hannah , nor as short as Twinkle . Dottie is shorter than Lottie but taller than Twinkle . Which is the tallest doll ?

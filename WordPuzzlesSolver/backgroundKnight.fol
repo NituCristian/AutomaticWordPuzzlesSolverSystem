@@ -1,0 +1,7 @@
+all x.(knight(x) -> -knave(x))
+truth(x) <-> -lie(x)
+all x.(say(x) <-> truth(x))
+all x.(all y.(same(x, y) <-> ((x != y) & ((knight(x) & knight(y)) | (knave(x) & knave(y))))))
+all x.(all y.(different(x, y) <-> -((knight(x) & knight(y)) | (knave(x) & knave(y))) ))
+all x.(say(x) <-> claim(x))
+

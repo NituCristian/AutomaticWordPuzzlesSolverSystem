@@ -1,0 +1,73 @@
+% start S
+############################
+# Grammar Rules
+#############################
+
+S[SEM = <?subj(?vp)>] -> NP[NUM=?n,SEM=?subj] VP[NUM=?n,SEM=?vp]
+
+NP[LOC=?l,NUM=?n,SEM=?np] -> PropN[LOC=?l,NUM=?n,SEM=?np] | InterPron[LOC=?l,NUM=?n,SEM=?np]
+NP[NUM=?n,SEM=<?det(?nom)> ] -> Det[NUM=?n,SEM=?det]  Nom[NUM=?n,SEM=?nom]
+NP[LOC=?l,NUM=?n,SEM=<?np(?relCl)>] -> PropN[LOC=?l,NUM=?n,SEM=?np] RelCl[SEM=?relCl]
+
+RelCl[SEM=<?relPr(?vp)>] -> RelPron[SEM=?relPr] VP[NUM=?n,SEM=?vp]
+
+Nom[NUM=?n,SEM=?nom] -> N[NUM=?n,SEM=?nom]
+
+VP[NUM=?n,SEM=<?v(?prd)>] -> AuxP[+COP,NUM=?n,SEM=?v] Pred[SEM=?prd]
+VP[NUM=?n,SEM=<?cc(?prd1, ?prd2)>] -> VP[NUM=?n,SEM=?prd1] CC[BOUND=?vpToVp, SEM=?cc] VP[NUM=?n,SEM=?prd2]
+VP[NUM=?n,SEM=<?cc(?prd1, ?prd2)>] -> VP[NUM=?n,SEM=?prd1] CC[BOUND=?vpToVp, SEM=?cc] AdjP[GRD=?rel, SEM=?prd2]
+
+Pred[SEM=?prd] -> AdjP[GRD=?rel, SEM=?prd] | AdjP[GRD=?abs, SEM=?prd] | Det[NUM=?n] Nom[NUM=?n, SEM=?prd]
+
+AdjP[GRD=?rel, SEM=<?adj(?pp)>] -> Adj[GRD=?rel, SEM=?adj] PP[+than,SEM=?pp]
+AdjP[GRD=?abs, SEM=<?adj>] -> Det[NUM=sg] Adj[GRD=?abs, SEM=?adj] 
+
+PP[+than, SEM=?np] -> P[+than] NP[SEM=?np]
+
+AuxP[COP=?c,NUM=?n,SEM=?aux] -> Aux[COP=?c,NUM=?n,SEM=?aux]
+AuxP[COP=?c,NUM=?n,SEM=<?neg(?aux)>] -> Aux[COP=?c,NUM=?n,SEM=?aux] Neg[SEM=?neg]
+
+#############################
+# Lexical Rules
+#############################
+
+PropN[-LOC,NUM=sg,SEM=<\P.P(ana)>] -> 'Ana'
+PropN[-LOC,NUM=sg,SEM=<\P.P(diana)>] -> 'Diana'
+PropN[-LOC,NUM=sg,SEM=<\P.P(maria)>] -> 'Maria'
+PropN[-LOC,NUM=sg,SEM=<\P.P(alice)>] -> 'Alice'
+
+PropN[-LOC,NUM=sg,SEM=<\P.P(hritik)>] -> 'Hritik'
+PropN[-LOC,NUM=sg,SEM=<\P.P(salman)>] -> 'Salman'
+PropN[-LOC,NUM=sg,SEM=<\P.P(sanjay)>] -> 'Sanjay'
+PropN[-LOC,NUM=sg,SEM=<\P.P(akshay)>] -> 'Akshay'
+PropN[-LOC,NUM=sg,SEM=<\P.P(shahrukh)>] -> 'Shahrukh'
+
+PropN[-LOC,NUM=sg,SEM=<\P.P(kevin)>] -> 'Kevin'
+PropN[-LOC,NUM=sg,SEM=<\P.P(trevor)>] -> 'Trevor'
+PropN[-LOC,NUM=sg,SEM=<\P.P(mike)>] -> 'Mike'
+PropN[-LOC,NUM=sg,SEM=<\P.P(sam)>] -> 'Sam'
+
+N[NUM=sg,SEM=<\x.man(x)>] -> 'man'
+
+Det[NUM=sg,SEM=<\P Q.exists x.((P(x) & Q(x)) & all y.(P(y) -> (x = y)))>] -> 'the' | 'The' 
+Det[NUM=sg,SEM=<\P Q.exists x.(P(x) & Q(x))>] -> 'a'
+
+CC[BOUND=?vpToVp, SEM=<\P Q x.((P(x) & Q(x)))>] -> 'but'
+CC[BOUND=?vpToVp, SEM=<\P Q x.((P(x) & Q(x)))>] -> 'and'
+
+InterPron[-LOC, NUM=sg, SEM=<\P.P(x)>] -> 'who' | 'Who'
+
+RelPron[SEM=<\Q x P.((P(x) & Q(x)))>] -> 'who'
+
+Aux[+COP,NUM=sg,SEM=<\P x.P(x)>,tns=pres] -> 'is'
+Aux[+COP,NUM=pl,SEM=<\P x.P(x)>,tns=pres] -> 'are'
+
+Adj[GRD=rel, SEM=<\X x.X(\y.(older(x,y)))>] -> 'older'
+Adj[GRD=rel, SEM=<\X x.X(\y.(younger(x,y)))>] -> 'younger'
+
+Adj[GRD=abs, SEM=<\x.(oldest(x))>] -> 'oldest'
+Adj[GRD=abs, SEM=<\x.(youngest(x))>] -> 'youngest'
+
+P[+than] -> 'than'
+
+Neg[SEM=<\T P.T(\x.(- P(x)))>] -> 'not'

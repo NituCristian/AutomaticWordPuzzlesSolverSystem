@@ -1,0 +1,3 @@
+On the island where each inhabitant can be a knave , a knight or a spy , knights always tell the truth while knaves always lie . You are approached by three inhabitants : one wears blue , one wears red and one wears green . 
+You know about them that one is a knight , one is a knave and one is a spy . The man wearing blue says that the man in red is the spy . The man wearing red says that the man 
+in green is the spy . The man wearing green says that the man in red is actually the spy . Who is the spy ?

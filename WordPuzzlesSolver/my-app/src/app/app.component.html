@@ -1,0 +1,61 @@
+<br/>
+<br/>
+<h2 style="text-align: center;">Rezolvarea puzzle-urilor logice de cuvinte prin înțelegerea limbajului natural</h2>
+<br/>
+
+<button type="button" id = "loadButton" (click)="fileInput.click()" class="btn btn-primary">
+  <span>Load puzzles</span>
+  <input #fileInput type="file" class="btn btn-primary"(change)="loadPuzzles($event.target.files)" style="display:none;" />
+</button>
+
+<div class = "content" *ngIf = "puzzleFileUploaded">
+  
+
+  <div class="form-group">
+    Choose grammar file:
+    <input #grammar type="file" (change)="grammarUpload($event.target.files)">     
+  </div>
+    
+  <div class="form-group"> 
+    Choose background file:
+    <input #background type="file" (change)="backgroundUpload($event.target.files)">          
+  </div>
+
+  <div class="form-group"> 
+    Choose questions file:
+    <input #question type="file" (change)="questionUpload($event.target.files)">          
+  </div>
+
+
+  <table class="table table-hover table-striped table-bordered">
+      <thead>
+      <tr>
+        <th scope="col" id = "puzzleId"> ID </th>
+        <th scope="col" id = "puzzle">Puzzle</th>
+        <th *ngIf="questions.length" id = "assump">Statements</th>
+        <th scope="col" id = "solve">Solve</th>
+        <th *ngIf="questions.length" scope="col" id = "prove">Prove</th>
+      </tr>
+      </thead>
+      <tbody>
+          <tr *ngFor="let puzzle of puzzles; let i = index"> 
+            <td>{{ i+1 }}</td>
+              <td>{{ puzzles[i] }}
+                <p>{{ solution[i] }}</p>
+              </td>
+              <td *ngIf="questions.length">
+                {{ questions[i] }}
+              </td>
+              <td>
+                <button type="button" class="btn btn-primary" (click) = "solvePuzzle(i)">{{this.buttonLabel[i]}}</button>
+              </td>
+
+              <td *ngIf="questions.length">
+                <button type="button" class="btn btn-primary" (click) = "proofStatement(i)">Prove statements</button>
+              </td>
+          </tr>
+          
+      </tbody>
+  </table>
+</div>
+

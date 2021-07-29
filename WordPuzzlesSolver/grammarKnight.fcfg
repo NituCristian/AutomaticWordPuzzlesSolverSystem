@@ -1,0 +1,243 @@
+% start S
+############################
+# Grammar Rules
+#############################
+
+S[SEM=<?conj2(?conj(?relCl, ?advCl), ?advCl2)>] -> WhereCl[SEM=?relCl] Comma[BOUND=sentences, SEM=?conj] AdvCl[SEM=?advCl] Conj[BOUND=sentences, SEM=?conj2] AdvCl[SEM=?advCl2]
+
+S[SEM=?vp] -> Pron[NUM=?n] VP[NUM=?n2, SEM=?vp]
+
+S[SEM=?sent, TYPE=two] -> SentBinaryPred[SEM=?sent, TYPE=two]
+
+S[SEM=<?conj(?np(?vp), ?np(?np2))>] -> NP[NUM=?n, SEM=?np] VP[NUM=?n, SEM=?vp] Conj[BOUND=sentences, SEM=?conj] Quantifier[+BOTH] NP[NUM=?n, SEM=?np2]
+
+S[SEM=<?np(?vp)>] -> NP[NUM=?n, SEM=?np] VP[NUM=?n, SEM=?vp] 
+
+S[SEM=<?np(?vp)>] -> Adj[+only] NP[SEM=?np, TYPE=detSem] VP[NUM=?n, SEM=?vp]
+
+S[SEM=<?np(?vp)>] -> NP[+COMPOUND, NUM=pl, SEM=?np] VP[NUM=pl, SEM=?vp]
+
+CompoundSent[SEM=<?conj2(?atLeast(?sent1), ?atLeast(?sent2))>] -> AtLeastSent[SEM=?atLeast] Conj[BOUND=sentences, TYPE=thatClause] S[SEM=?sent1] Conj[BOUND=sentences, SEM=?conj2] Conj[BOUND=sentences, TYPE=thatClause] S[SEM=?sent2]
+CompoundSent[SEM=<?conj2(?atLeast(?sent1), ?atLeast(?sent2))>] -> AtLeastSent[SEM=?atLeast] S[SEM=?sent1] Conj[BOUND=sentences, SEM=?conj2] S[SEM=?sent2]
+
+CompoundSent[SEM=<?conjEither(?sent1, ?sent2)>] -> Conj[+either, SEM=?conjEither] S[SEM=?sent1] Conj[BOUND=sentences, SEM=?conj2] S[SEM=?sent2]
+CompoundSent[SEM=<?conj2(?sent1, ?sent2)>] -> Quantifier[+BOTH] S[SEM=?sent1] Conj[BOUND=sentences, SEM=?conj2] S[SEM=?sent2]
+
+CompoundSent[SEM=<?notCase(?sent1)>] -> NotCaseSent[+NEG, SEM=?notCase] Conj[BOUND=sentences, TYPE=thatClause] S[SEM=?sent1]
+CompoundSent[SEM=<?neg(?sent1)>] -> TrueOrFalseSent[SEM=?neg] Conj[BOUND=sentences, TYPE=thatClause] S[SEM=?sent1]
+CompoundSent[SEM=<?np(?vp)>] -> SentNoSem[TYPE=know] NP[NUM=?n, SEM=?np] VP[NUM=?n, SEM=?vp] 
+CompoundSent[SEM=<?conj(?np(?vp), ?np2(?vp2))>] -> SentNoSem[TYPE=know] NP[NUM=?n, SEM=?np] VP[NUM=?n, SEM=?vp] Conj[BOUND=sentences, SEM=?conj] NP[NUM=?n, SEM=?np2] VP[NUM=?n, SEM=?vp2]
+CompoundSent[SEM=<?conj(?np(?vp), ?np2(?vp2))>] -> SentNoSem[TYPE=know] NP[NUM=?n, SEM=?np] VP[NUM=?n, SEM=?vp] Conj[BOUND=sentences, SEM=?conj] Conj[BOUND=sentences, TYPE=thatClause] NP[NUM=?n, SEM=?np2] VP[NUM=?n, SEM=?vp2]
+
+SentNoSem[TYPE=know] -> PropN[NUM=?n] VB[+know, pers=third] Conj[BOUND=sentences, TYPE=thatClause]
+
+AtLeastSent[SEM=<?quant(?adv)>] -> Prep[+AT] Quantifier[SEM=?quant] Numeral[NUM=sg] Prep[+OF] Det[+THE] Prep[+FOLLOWING] Aux[COP=true, NUM=sg] Adv[TYPE=trueOrFalse, SEM=?adv] Colon[]
+
+NotCaseSent[+NEG, SEM=?neg] -> Pron[NUM=sg, PERS=third] Aux[COP=true, NUM=sg] Neg[SEM=?neg, TYPE=falseSentence] Det[+THE] N[+CASE]
+
+TrueOrFalseSent[SEM=?adv] -> Pron[NUM=sg, PERS=third] Aux[COP=true, NUM=sg] Adv[TYPE=trueOrFalse, SEM=?adv]
+
+SentBinaryPred[SEM=<?nom1(?nom2(?vp))>, TYPE=two] -> NP[-LOC,SEM=?nom1] Conj[BOUND=NP, SEM=?conj] NP[-LOC,SEM=?nom2] VPBinary[SEM=?vp, TYPE=two]
+
+S[SEM=<?that(?sent1, ?sent2)>] -> S[SEM=?sent1] Conj[BOUND=sentences, TYPE=thatClause, SEM=?that] S[SEM=?sent2]
+
+S[SEM=<?that(?sent1, ?sent2)>] -> S[SEM=?sent1] Conj[BOUND=sentences, TYPE=thatClause, SEM=?that] SentBinaryPred[SEM=?sent2, TYPE=two]
+
+S[SEM=<?that(?sent1, ?sent2)>] -> S[SEM=?sent1] Conj[BOUND=sentences, TYPE=thatClause, SEM=?that] CompoundSent[SEM=?sent2]
+
+S[SEM=<?choose(?pron(?vp))>] -> ChooseNP[NUMBER_NP=?numNP, SEM=?choose] Comma[] ImpersPron[NUM=sg, PERS=third, SEM=?pron] VP[NUM=sg, SEM=?vp]
+S[SEM=<?choose(?pron(?vp))>] -> ChooseNP[NUMBER_NP=?numNP, SEM=?choose] Comma[] Adv[+exactly] ImpersPron[NUM=sg, PERS=third, SEM=?pron] VP[NUM=sg, SEM=?vp]
+
+ChooseNP[NUMBER_NP=?numNP, SEM=<?choose(?np1, ?np2)>] -> Prep[+OF, NUMBER_NP=?numNP, SEM=?choose] NP[-LOC, NUM=?num, SEM=?np1] Conj[BOUND=NP, SEM=?conj] NP[-LOC, NUM=?num, SEM=?np2]
+
+WhereCl[SEM=?relCl] -> PP[TYPE=?type] RelCl[SEM=?relCl]
+
+AdvCl[SEM=<?adv(?nom1, ?vp)>] -> NP[NUM=?n1, SEM=?nom1] Adv[TYPE=?type, SEM=?adv] VP[NUM=?n1, SEM=?vp]
+
+RelCl[SEM=<?det(?nom, ?vp)>] -> RelPron[+where] Det[SEM=?det] NP[NUM=?n, SEM=?nom] VP[NUM=?n,SEM=?vp]
+
+PP[TYPE=?type] -> P[+on] NP[TYPE=?type, NUM=?n]
+
+NP[TYPE=where, NUM=?n] -> Det[SEM=?det] Nom[NUM=?n, SEM=?nom]
+
+NP[NUM=?n, SEM=?nom] -> Nom[NUM=?n, SEM=?nom]
+
+NP[LOC=?l,NUM=?n,SEM=?np] -> PropN[LOC=?l,NUM=?n,SEM=?np] 
+
+NP[NUM=?n, SEM=?nom, TYPE=ignoreDetSem] -> Det[SEM=?det] Nom[NUM=?n, SEM=?nom]
+NP[SEM=?nom, TYPE=ignoreDetSemInEither] -> Det[SEM=?det] Nom[SEM=?nom]
+
+NP[SEM=<?det(?nom)>, TYPE=detSem] -> Det[SEM=?det] Nom[SEM=?nom]
+
+NP[NUM=?n, SEM=?nom] -> Numeral[NUM=?n] Nom[NUM=?n, SEM=?nom]
+
+NP[+COMPOUND, LOC=?l, NUM=pl, SEM=<?conj(?nom1, ?nom2)>] -> NP[LOC=?l,NUM=?n,SEM=?nom1] Conj[BOUND=NP, SEM=?conj] NP[LOC=?l,NUM=?n,SEM=?nom2]
+NP[+COMPOUND, LOC=?l, NUM=pl, SEM=<?comma(?conj(?nom1, ?nom2), ?nom3)>] -> NP[LOC=?l,NUM=?n,SEM=?nom1] Comma[BOUND=NP, SEM=?comma] NP[LOC=?l,NUM=?n,SEM=?nom2] Conj[BOUND=NP, SEM=?conj] NP[LOC=?l,NUM=?n,SEM=?nom3]
+NP[+COMPOUND, LOC=?l, NUM=pl, SEM=<?comma(?comma2(?conj(?nom1, ?nom2), ?nom3), ?nom4)>] -> NP[LOC=?l,NUM=?n,SEM=?nom1] Comma[BOUND=NP, SEM=?comma] NP[LOC=?l,NUM=?n,SEM=?nom2] Comma[BOUND=NP, SEM=?comma2] NP[LOC=?l,NUM=?n,SEM=?nom3] Conj[BOUND=NP, SEM=?conj] NP[LOC=?l,NUM=?n,SEM=?nom4]
+NP[+COMPOUND, LOC=?l, NUM=pl, SEM=<?comma(?comma2(?comma3(?conj(?nom1, ?nom2), ?nom3), ?nom4), ?nom5)>] -> NP[LOC=?l,NUM=?n,SEM=?nom1] Comma[BOUND=NP, SEM=?comma] NP[LOC=?l,NUM=?n,SEM=?nom2] Comma[BOUND=NP, SEM=?comma2] NP[LOC=?l,NUM=?n,SEM=?nom3] Comma[BOUND=NP, SEM=?comma3] NP[LOC=?l,NUM=?n,SEM=?nom4] Conj[BOUND=NP, SEM=?conj] NP[LOC=?l,NUM=?n,SEM=?nom5]
+NP[+COMPOUND, LOC=?l, NUM=pl, SEM=<?comma(?comma2(?comma3(?comma4(?conj(?nom1, ?nom2), ?nom3), ?nom4), ?nom5), ?nom6)>] -> NP[LOC=?l,NUM=?n,SEM=?nom1] Comma[BOUND=NP, SEM=?comma] NP[LOC=?l,NUM=?n,SEM=?nom2] Comma[BOUND=NP, SEM=?comma2] NP[LOC=?l,NUM=?n,SEM=?nom3] Comma[BOUND=NP, SEM=?comma3] NP[LOC=?l,NUM=?n,SEM=?nom4] Comma[BOUND=NP, SEM=?comma4] NP[LOC=?l,NUM=?n,SEM=?nom5] Conj[BOUND=NP, SEM=?conj] NP[LOC=?l,NUM=?n,SEM=?nom6]
+NP[+COMPOUND, LOC=?l, NUM=pl, SEM=<?comma(?comma2(?comma3(?comma4(?comma5(?conj(?nom1, ?nom2), ?nom3), ?nom4), ?nom5), ?nom6), ?nom7)>] -> NP[LOC=?l,NUM=?n,SEM=?nom1] Comma[BOUND=NP, SEM=?comma] NP[LOC=?l,NUM=?n,SEM=?nom2] Comma[BOUND=NP, SEM=?comma2] NP[LOC=?l,NUM=?n,SEM=?nom3] Comma[BOUND=NP, SEM=?comma3] NP[LOC=?l,NUM=?n,SEM=?nom4] Comma[BOUND=NP, SEM=?comma4] NP[LOC=?l,NUM=?n,SEM=?nom5] Comma[BOUND=NP, SEM=?comma5] NP[LOC=?l,NUM=?n,SEM=?nom6] Conj[BOUND=NP, SEM=?conj] NP[LOC=?l,NUM=?n,SEM=?nom7]
+NP[+COMPOUND, LOC=?l, NUM=pl, SEM=<?comma(?comma2(?comma3(?comma4(?comma5(?comma6(?conj(?nom1, ?nom2), ?nom3), ?nom4), ?nom5), ?nom6), ?nom7), ?nom8)>] -> NP[LOC=?l,NUM=?n,SEM=?nom1] Comma[BOUND=NP, SEM=?comma] NP[LOC=?l,NUM=?n,SEM=?nom2] Comma[BOUND=NP, SEM=?comma2] NP[LOC=?l,NUM=?n,SEM=?nom3] Comma[BOUND=NP, SEM=?comma3] NP[LOC=?l,NUM=?n,SEM=?nom4] Comma[BOUND=NP, SEM=?comma4] NP[LOC=?l,NUM=?n,SEM=?nom5] Comma[BOUND=NP, SEM=?comma5] NP[LOC=?l,NUM=?n,SEM=?nom6] Comma[BOUND=NP, SEM=?comma6] NP[LOC=?l,NUM=?n,SEM=?nom7] Conj[BOUND=NP, SEM=?conj] NP[LOC=?l,NUM=?n,SEM=?nom8]
+NP[+COMPOUND, LOC=?l, NUM=pl, SEM=<?comma(?comma2(?comma3(?comma4(?comma5(?comma6(?comma7(?conj(?nom1, ?nom2), ?nom3), ?nom4), ?nom5), ?nom6), ?nom7), ?nom8), ?nom9)>] -> NP[LOC=?l,NUM=?n,SEM=?nom1] Comma[BOUND=NP, SEM=?comma] NP[LOC=?l,NUM=?n,SEM=?nom2] Comma[BOUND=NP, SEM=?comma2] NP[LOC=?l,NUM=?n,SEM=?nom3] Comma[BOUND=NP, SEM=?comma3] NP[LOC=?l,NUM=?n,SEM=?nom4] Comma[BOUND=NP, SEM=?comma4] NP[LOC=?l,NUM=?n,SEM=?nom5] Comma[BOUND=NP, SEM=?comma5] NP[LOC=?l,NUM=?n,SEM=?nom6] Comma[BOUND=NP, SEM=?comma6] NP[LOC=?l,NUM=?n,SEM=?nom7] Comma[BOUND=NP, SEM=?comma7] NP[LOC=?l,NUM=?n,SEM=?nom8] Conj[BOUND=NP, SEM=?conj] NP[LOC=?l,NUM=?n,SEM=?nom9]
+
+
+NP[NUM=pl, SEM=<?nor(?nom1, ?nom2)>] -> Conj[+neither] NP[LOC=?l,NUM=?n,SEM=?nom1] Conj[+nor, SEM=?nor] NP[LOC=?l,NUM=?n,SEM=?nom2]
+
+NPObj[NUM=?n2, SEM=?nom, TYPE=?type] -> NP[NUM=?n2, SEM=?nom, TYPE=ignoreDetSem]
+
+NPObj[NUM=?n2, SEM=<?n3(?n1)>] -> NP[NUM=?n2, SEM=?n1] Colon[TYPE=?type] NP[+COMPOUND, NUM=?n2, SEM=?n3]
+NPObj[NUM=?n2, SEM=<?n3(?n1)>] -> NP[NUM=?n2, SEM=?n1] NP[+COMPOUND, NUM=?n2, SEM=?n3]
+
+Nom[NUM=?n,SEM=?nom] -> N[NUM=?n,SEM=?nom]
+
+VP[NUM=?n,SEM=<?v(?prd)>, TYPE=one] -> AuxP[COP=?c,NUM=?n,SEM=?v, TYPE=one] Pred[SEM=?prd]
+
+VP[NUM=?n,SEM=?nom] -> VT[NUM=?n] NPObj[NUM=?n2, SEM=?nom, TYPE=?type]
+
+VP[NUM=?n,SEM=?nom] -> VT[NUM=?n] NPObj[NUM=?n2, SEM=?nom]
+
+VP[NUM=?n,SEM=?vp] -> IV[NUM=?n, SEM=?vp]
+
+VP[NUM=?n,SEM=?vp] -> SV[NUM=?n, SEM=?vp]  
+VP[NUM=?n,SEM=?vp] -> Modal[] SV[NUM=?n, SEM=?vp]
+VP[NUM=?n,SEM=?vp] -> Modal[] SV[NUM=?n, SEM=?vp] Pron[NUM=sg]
+
+VP[NUM=?n,SEM=?vp] -> SV[NUM=?n, SEM=?vp] Pron[SEM=?pron]
+
+VPBinary[SEM=<?aux(?prd)>, TYPE=two] -> AuxP[COP=?c,NUM=?n,SEM=?aux, TYPE=two] PredBinary[SEM=?prd]
+
+AuxP[COP=?c,NUM=?n,SEM=?aux, TYPE=one] -> Aux[COP=?c,NUM=?n,SEM=?aux, TYPE=one]
+AuxP[COP=?c,NUM=?n,SEM=<?neg(?aux)>, TYPE=one] -> Aux[COP=?c,NUM=?n,SEM=?aux, TYPE=one] Neg[SEM=?neg, TYPE=one]
+
+AuxP[COP=?c,NUM=?n,SEM=?aux, TYPE=two] -> Aux[COP=?c,NUM=?n,SEM=?aux, TYPE=two]
+AuxP[COP=?c,NUM=?n,SEM=<?neg(?aux)>, TYPE=two] -> Aux[COP=?c,NUM=?n,SEM=?aux, TYPE=two] Neg[SEM=?neg, TYPE=two]
+
+Pred[SEM=<?conj(?np1, ?np2)>] -> Conj[+either] NP[NUM=?nr, SEM=?np1, TYPE=ignoreDetSemInEither] Conj[BOUND=NP, SEM=?conj] NP[NUM=?nr, SEM=?np2, TYPE=ignoreDetSemInEither]
+
+Pred[SEM=?nom] -> Det[SEM=?det] Nom[NUM=?n, SEM=?nom]
+Pred[NUM=?n, SEM=?nom] -> Nom[NUM=?n, SEM=?nom] 
+Pred[NUM=?n, SEM=?nom] -> Quantifier[+BOTH] Nom[NUM=?n, SEM=?nom] 
+
+PredBinary[SEM=?prd] -> Det[+THE, SEM=?det] Adj[GRD=eq, SEM=?prd]
+PredBinary[SEM=?prd] -> Adj[GRD=notEq, SEM=?prd]
+
+#############################
+# Lexical Rules
+#############################
+
+PropN[-LOC,NUM=sg,SEM=<\P.P(peggy)>] -> 'Peggy'
+PropN[-LOC,NUM=sg,SEM=<\P.P(mel)>] -> 'Mel'
+PropN[-LOC,NUM=sg,SEM=<\P.P(joe)>] -> 'Joe'
+PropN[-LOC,NUM=sg,SEM=<\P.P(sue)>] -> 'Sue'
+PropN[-LOC,NUM=sg,SEM=<\P.P(sally)>] -> 'Sally'
+PropN[-LOC,NUM=sg,SEM=<\P.P(alice)>] -> 'Alice'
+PropN[-LOC,NUM=sg,SEM=<\P.P(homer)>] -> 'Homer'
+PropN[-LOC,NUM=sg,SEM=<\P.P(bozo)>] -> 'Bozo'
+PropN[-LOC,NUM=sg,SEM=<\P.P(marge)>] -> 'Marge'
+PropN[-LOC,NUM=sg,SEM=<\P.P(ted)>] -> 'Ted'
+PropN[-LOC,NUM=sg,SEM=<\P.P(bart)>] -> 'Bart'
+PropN[-LOC,NUM=sg,SEM=<\P.P(betty)>] -> 'Betty'
+PropN[-LOC,NUM=sg,SEM=<\P.P(bob)>] -> 'Bob'
+PropN[-LOC,NUM=sg,SEM=<\P.P(bobo)>] -> 'Bobo'
+PropN[-LOC,NUM=sg,SEM=<\P.P(rex)>] -> 'Rex'
+PropN[-LOC,NUM=sg,SEM=<\P.P(zippy)>] -> 'Zippy'
+PropN[-LOC,NUM=sg,SEM=<\P.P(zoey)>] -> 'Zoey'
+PropN[-LOC,NUM=sg,SEM=<\P.P(dave)>] -> 'Dave'
+PropN[-LOC,NUM=sg,SEM=<\P.P(carl)>] -> 'Carl'
+PropN[-LOC,NUM=sg,SEM=<\P.P(abe)>] -> 'Abe'
+PropN[-LOC,NUM=sg,SEM=<\P.P(bill)>] -> 'Bill'
+
+N[NUM=sg,SEM=<\x.island(x)>] -> 'island'
+N[NUM=sg,SEM=<\x.inhabitant(x)>] -> 'inhabitant'
+N[NUM=pl,SEM=<\x.inhabitant(x)>] -> 'inhabitants'
+N[NUM=sg,SEM=<\x.knight(x)>] -> 'knight'
+N[NUM=pl,SEM=<\x.knight(x)>] -> 'knights'
+N[NUM=sg,SEM=<\x.knave(x)>] -> 'knave'
+N[NUM=pl,SEM=<\x.knave(x)>] -> 'knaves'
+N[NUM=sg,SEM=<\x.truth(x)>] -> 'truth'
+
+N[+CASE] -> 'case'
+
+Conj[+neither, SEM=<\T P.T(\x.(- P(x)))>] -> 'neither'
+Conj[+nor, SEM=<\P Q x.((-P(x) & -Q(x)))>] -> 'nor'
+Conj[+either, SEM=<\P Q ((P & -Q) | (-P & Q))>] -> 'either'
+Conj[BOUND=NP, SEM=<\P Q x.((P(x) | Q(x)))>] -> 'or'
+Conj[BOUND=NP, SEM=<\P Q X.((P(X) & Q(X)))>] -> 'and'
+Conj[BOUND=sentences, SEM=<\P Q. ((P & Q))>] -> 'while'
+Conj[BOUND=sentences, SEM=<\P Q. ((P | Q))>] -> 'or'
+Conj[BOUND=sentences, SEM=<\P Q. ((P & Q))>] -> 'and'
+Conj[BOUND=sentences, TYPE=thatClause, SEM=<\P Q ((P <-> Q))>] -> 'that'
+
+Comma[BOUND=sentences, SEM=<\P Q. ((P & Q))>] -> ','
+Comma[BOUND=NP, SEM=<\P Q X.((P(X) & Q(X)))>] -> ','
+
+Adv[TYPE=time, SEM=<\P Q. all x.(P(x) -> Q(x))>] -> 'always'
+Adv[+exactly] -> 'exactly'
+Adv[TYPE=trueOrFalse, SEM=<\P. P>] -> 'true'
+Adv[TYPE=trueOrFalse, SEM=<\P. -P>] -> 'false'
+
+Adj[+only] -> 'only'
+Adj[GRD=eq, SEM=<\x y.(same(x,y))>] -> 'same'
+Adj[GRD=notEq, SEM=<\x y.(different(x,y))>] -> 'different'
+
+Aux[COP=true,NUM=sg,SEM=<\P x.P(x)>,tns=pres] -> 'is'
+Aux[COP=true,NUM=pl,SEM=<\P x.P(x)>,tns=pres, TYPE=one] -> 'are'
+Aux[COP=true,NUM=pl,SEM=<\P x y.P(x, y)>,tns=pres, TYPE=two] -> 'are'
+
+Modal[] -> 'would' | 'could'
+
+RelPron[+where] -> 'where'
+
+Numeral[NUM=pl] -> 'two'
+Numeral[NUM=sg] -> 'one'
+Numeral[NUM=pl] -> 'three'
+Numeral[NUM=pl] -> 'four'
+Numeral[NUM=pl] -> 'five'
+Numeral[NUM=pl] -> 'six'
+Numeral[NUM=pl] -> 'seven'
+Numeral[NUM=pl] -> 'eight'
+Numeral[NUM=pl] -> 'nine'
+
+VT[TYPE=expr, NUM=pl, tns=pres] -> 'tell'
+VT[TYPE=expr, NUM=pl, tns=pres] -> 'say'
+VT[tns=pres] -> 'meet'
+IV[NUM=pl, SEM=<\x.lie(x)>, tns=pres] -> 'lie'
+IV[NUM=sg, pers=third, SEM=<\x.lie(x)>, tns=pres] -> 'lies'
+
+SV[NUM=sg, PERS=third, SEM=<\x.say(x)>] -> 'says'
+SV[NUM=sg, PERS=noThird, SEM=<\x.say(x)>] -> 'say'
+SV[NUM=sg, PERS=third, SEM=<\x.tell(x)>] -> 'tells'
+SV[NUM=sg, PERS=noThird, SEM=<\x.tell(x)>] -> 'tell'
+SV[NUM=sg, PERS=third, SEM=<\x.claim(x)>] -> 'claims'
+SV[NUM=sg, PERS=noThird, SEM=<\x.claim(x)>] -> 'claim'
+
+VB[+know, pers=third] -> 'knows'
+
+Det[+THE, SEM=<\P Q x.(P(x) & Q(x))>] -> 'the'
+Det[SEM=<\P Q.all x.(P(x) -> Q(x))>] -> 'each'
+Det[NUM=sg,SEM=<\P Q.exists x.(P(x) & Q(x))>] -> 'a'
+
+Pron[NUM=sg,SEM=<\P.P(you)>] -> 'You' | 'you'
+Pron[NUM=sg, PERS=third ,SEM=<\P.P(it)>] -> 'It' | 'it'
+
+Prep[+OF, NUMBER_NP=two, SEM=<\P Q X.((P(X) & -Q(X)) | (-P(X) & Q(X)))>] -> 'Of' | 'of'
+Prep[+FOLLOWING] -> 'following'
+Prep[+AT] -> 'at'
+
+Quantifier[SEM=<\P. P>] -> 'least'
+Quantifier[+BOTH] -> 'both'
+
+ImpersPron[NUM=sg, PERS=third, SEM=<\P x.P(x)>] -> 'One'|'one'
+
+P[+on] -> 'On' | 'on'
+
+Neg[SEM=<\T P.T(\x.(- P(x)))>, TYPE=one] -> 'not'
+Neg[SEM=<\T P.T(\x y.(- P(x, y)))>, TYPE=two] -> 'not'
+
+Neg[SEM=<\P. -P>, TYPE=falseSentence] -> 'not'
+
+Colon[TYPE=enumeration] -> ':'
+Question[] -> '?'
+Quote[] -> '"'
+
+

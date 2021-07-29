@@ -1,0 +1,33 @@
+
+#loadButton {
+    margin: auto;
+    margin-left: 20px;
+}
+
+.content{
+    margin: auto;
+    margin-right: 0px;
+    max-width: 100%;
+}
+
+table {
+    width: 100%;
+}
+
+#puzzleId{
+    width: 5%;
+    align-content: left;
+}
+
+#puzzle {
+    width: 80%;
+}
+
+
+#solve{
+    width: 5%;
+}
+
+#assump {
+    width: 12%;
+}

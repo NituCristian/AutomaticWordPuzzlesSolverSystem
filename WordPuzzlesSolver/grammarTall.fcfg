@@ -1,0 +1,119 @@
+% start S
+############################
+# Grammar Rules
+#############################
+
+S[SEM = <?subj(?vp)>] -> NP[NUM=?n,SEM=?subj] VP[NUM=?n,SEM=?vp]
+S[SEM = <?subj(?vp)>] -> VP[NUM=?n,SEM=?vp] NP[NUM=?n,SEM=?subj]
+
+NP[LOC=?l,NUM=?n,SEM=?np] -> PropN[LOC=?l,NUM=?n,SEM=?np] | InterPron[LOC=?l,NUM=?n,SEM=?np] | Nom[NUM=?n,SEM=?np] 
+NP[+COP, NUM=?n, SEM=?nom ] -> Det[NUM=?n] Nom[NUM=?n, SEM=?nom]
+NP[+COP, NUM=?n, SEM=?nom ] -> Numeral[NUM=?n] Nom[NUM=?n, SEM=?nom]
+NP[NUM=?n, SEM=<?det(?adj, ?nom)>] -> Det[NUM=sg, SEM=?det] Adj[GRD=?abs, SEM=?adj] Nom[NUM=sg,SEM=?nom] 
+NP[LOC=?l, NUM=pl, SEM=<?cc(?nom1, ?nom2)>] -> NP[LOC=?l,NUM=?n,SEM=?nom1] CC[BOUND=?PropN, SEM=?cc] NP[LOC=?l,NUM=?n,SEM=?nom2]
+NP[LOC=?l,NUM=?n,SEM=<?np(?relCl)>] -> PropN[LOC=?l,NUM=?n,SEM=?np] RelCl[SEM=?relCl]
+
+RelCl[SEM=<?relPr(?vp)>] -> RelPron[SEM=?relPr] VP[NUM=?n,SEM=?vp]
+
+Nom[NUM=?n,SEM=?nom] -> N[NUM=?n,SEM=?nom]
+
+VP[NUM=?n,SEM=<?v(?prd)>] -> AuxP[+COP,NUM=?n,SEM=?v] Pred[SEM=?prd]
+VP[NUM=?n,SEM=<?cc(?prd1, ?prd2)>] -> VP[NUM=?n,SEM=?prd1] CC[BOUND=?vpToVp, SEM=?cc] VP[NUM=?n,SEM=?prd2]
+VP[NUM=?n,SEM=<?cc(?prd1, ?prd2)>] -> VP[NUM=?n,SEM=?prd1] CC[BOUND=?vpToVp, SEM=?cc] AdjP[GRD=?rel, SEM=?prd2]
+VP[NUM=?n,SEM=<?cc(?prd1, ?prd2)>] -> VP[+neither, NUM=?n,SEM=?prd1] CC[BOUND=?vpToConjP, SEM=?cc] ConjP[+nor, GRD=?eqOrLess, SEM=?prd2]
+VP[+neither, NUM=?n,SEM=<?v(?prd)>] -> AuxP[+COP,NUM=?n,SEM=?v] ConjP[+neither, GRD=?eqOrLess, SEM=?prd]
+
+Pred[SEM=?prd] -> AdjP[GRD=?rel, SEM=?prd] | AdjP[GRD=?abs, SEM=?prd] | ConjP[GRD=?eqOrLess, SEM=?prd] | NP[+COP, NUM=?n, SEM=?prd] | NP[NUM=?n, SEM=?prd]
+
+ConjP[GRD=?eqOrLess, SEM=<?adj(?np)>] -> AdjP[GRD=?eqOrLess, SEM=?adj] PropN[LOC=?l,NUM=?n,SEM=?np]
+ConjP[+neither, GRD=?eqOrLess, SEM=<?neither(?adj, ?np)>] -> Conj[+neither, SEM=?neither] AdjP[GRD=?eqOrLess, SEM=?adj] PropN[LOC=?l,NUM=?n,SEM=?np]
+ConjP[+nor, GRD=?eqOrLess, SEM=<?nor(?adj, ?np)>] -> Conj[+nor, SEM=?nor] AdjP[GRD=?eqOrLess, SEM=?adj] PropN[LOC=?l,NUM=?n,SEM=?np]
+
+AdjP[GRD=?eqOrLess, SEM=?adj] -> P[+as] Adj[GRD=?eqOrLess, SEM=?adj] P[+as]
+AdjP[GRD=?rel, SEM=<?adj(?pp)>] -> Adj[GRD=?rel, SEM=?adj] PP[+than,SEM=?pp]
+AdjP[GRD=?rel, SEM=<?neg(?adj, ?pp)>] ->  Neg[SEM=?neg] Adj[GRD=?rel, SEM=?adj] PP[+than,SEM=?pp]
+AdjP[GRD=?abs, SEM=<?adj>] -> Det[NUM=sg] Adj[GRD=?abs, SEM=?adj] 
+
+PP[+than, SEM=?np] -> P[+than] NP[SEM=?np]
+
+AuxP[COP=?c,NUM=?n,SEM=?aux] -> Aux[COP=?c,NUM=?n,SEM=?aux]
+AuxP[COP=?c,NUM=?n,SEM=?aux] -> Adv[+there] Aux[COP=?c,NUM=?n,SEM=?aux]
+AuxP[COP=?c,NUM=?n,SEM=<?neg(?aux)>] -> Aux[COP=?c,NUM=?n,SEM=?aux] Neg[SEM=?neg]
+AuxP[COP=?c,NUM=?n,SEM=<?neg(?aux)>] -> Adv[+there] Aux[COP=?c,NUM=?n,SEM=?aux] Neg[SEM=?neg]
+
+#############################
+# Lexical Rules
+#############################
+
+PropN[-LOC,NUM=sg,SEM=<\P.P(ana)>] -> 'Ana'
+PropN[-LOC,NUM=sg,SEM=<\P.P(diana)>] -> 'Diana'
+PropN[-LOC,NUM=sg,SEM=<\P.P(maria)>] -> 'Maria'
+PropN[-LOC,NUM=sg,SEM=<\P.P(elena)>] -> 'Elena'
+
+PropN[-LOC,NUM=sg,SEM=<\P.P(dottie)>] -> 'Dottie'
+PropN[-LOC,NUM=sg,SEM=<\P.P(lottie)>] -> 'Lottie'
+PropN[-LOC,NUM=sg,SEM=<\P.P(twinkle)>] -> 'Twinkle'
+PropN[-LOC,NUM=sg,SEM=<\P.P(hannah)>] -> 'Hannah'
+
+
+PropN[-LOC,NUM=sg,SEM=<\P.P(hritik)>] -> 'Hritik'
+PropN[-LOC,NUM=sg,SEM=<\P.P(salman)>] -> 'Salman'
+PropN[-LOC,NUM=sg,SEM=<\P.P(sanjay)>] -> 'Sanjay'
+PropN[-LOC,NUM=sg,SEM=<\P.P(akshay)>] -> 'Akshay'
+PropN[-LOC,NUM=sg,SEM=<\P.P(shahrukh)>] -> 'Shahrukh'
+
+PropN[-LOC,NUM=sg,SEM=<\P.P(kevin)>] -> 'Kevin'
+PropN[-LOC,NUM=sg,SEM=<\P.P(trevor)>] -> 'Trevor'
+PropN[-LOC,NUM=sg,SEM=<\P.P(mike)>] -> 'Mike'
+PropN[-LOC,NUM=sg,SEM=<\P.P(sam)>] -> 'Sam'
+
+PropN[-LOC,NUM=sg,SEM=<\P.P(p)>] -> 'P'
+PropN[-LOC,NUM=sg,SEM=<\P.P(q)>] -> 'Q'
+PropN[-LOC,NUM=sg,SEM=<\P.P(r)>] -> 'R'
+PropN[-LOC,NUM=sg,SEM=<\P.P(s)>] -> 'S'
+
+N[NUM=sg,SEM=<\x.man(x)>] -> 'man'
+N[NUM=sg,SEM=<\x.doll(x)>] -> 'doll'
+N[NUM=pl,SEM=<\x.doll(x)>] -> 'dolls'
+
+Det[NUM=sg,SEM=<\P Q x.(P(x) & Q(x))>] -> 'the'
+Det[NUM=sg,SEM=<\P Q.exists x.(P(x) & Q(x))>] -> 'a'
+
+Numeral[NUM=pl] -> 'four'
+Numeral[NUM=sg] -> 'one'
+
+CC[BOUND=?vpToVp, SEM=<\P Q x.((P(x) & Q(x)))>] -> 'but'
+CC[BOUND=?vpToVp, SEM=<\P Q x.((P(x) & Q(x)))>] -> 'and'
+CC[BOUND=?vpToConjP, SEM=<\P Q x.((P(x) & Q(x)))>] -> ','
+
+CC[BOUND=?PropN, SEM=<\P Q X.((P(X) & Q(X)))>] -> 'and'
+CC[BOUND=?PropN, SEM=<\P Q X.((P(X) & Q(X)))>] -> ','
+
+Conj[+neither, SEM=<\T P.T(\x.(- P(x)))>] -> 'neither'
+Conj[+nor, SEM=<\T P.T(\x.(- P(x)))>] -> 'nor'
+
+InterPron[-LOC, NUM=sg, SEM=<\P.P(x)>] -> 'who' | 'Who'
+InterPron[-LOC, NUM=sg, SEM=<\P.P(x)>] -> 'which' | 'Which'
+
+RelPron[SEM=<\Q x P.((P(x) & Q(x)))>] -> 'who'
+
+Aux[+COP,NUM=sg,SEM=<\P x.P(x)>,tns=pres] -> 'is'
+Aux[+COP,NUM=pl,SEM=<\P x.P(x)>,tns=pres] -> 'are'
+
+Adj[GRD=rel, SEM=<\X x.X(\y.(taller(x,y)))>] -> 'taller'
+Adj[GRD=rel, SEM=<\X x.X(\y.(shorter(x,y)))>] -> 'shorter'
+
+Adj[GRD=abs, SEM=<\x.(shortest(x))>] -> 'shortest'
+Adj[GRD=abs, SEM=<\x.(tallest(x))>] -> 'tallest'
+
+Adj[GRD=eqOrLess, SEM=<\X x.X(\y.(tall(x,y)))>] -> 'tall'
+Adj[GRD=eqOrLess, SEM=<\X x.X(\y.(short(x,y)))>] -> 'short'
+ 
+Adj[SEM=<\x.happy(x)>] -> 'happy'
+
+P[+than] -> 'than'
+P[+as] -> 'as'
+
+Adv[+there] -> 'there' | 'There'
+
+Neg[SEM=<\T P.T(\x.(- P(x)))>] -> 'not'

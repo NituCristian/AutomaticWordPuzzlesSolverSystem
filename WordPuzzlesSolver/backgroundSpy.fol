@@ -1,0 +1,11 @@
+all x.(knight(x) -> (-knave(x) & -spy(x)))
+all x.(knave(x) -> (-knight(x) & -spy(x)))
+all x.(spy(x) -> (-knight(x) & -knave(x)))
+(knight(x) & knight(y)) -> x=y
+(knave(x) & knave(y)) -> x=y
+(spy(x) & spy(y)) -> x=y
+truth(x) <-> -lie(x)
+all x.(say(x) <-> truth(x))
+blue != red
+blue != green
+red != green
